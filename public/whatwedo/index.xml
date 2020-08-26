@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What we do on ASQ Consulting Ltd</title>
+    <link>http://asq.vn/whatwedo/</link>
+    <description>Recent content in What we do on ASQ Consulting Ltd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://asq.vn/whatwedo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Training</title>
+      <link>http://asq.vn/whatwedo/training/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>http://asq.vn/whatwedo/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction Industry Marketing</title>
+      <link>http://asq.vn/whatwedo/constructionmarket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://asq.vn/whatwedo/constructionmarket/</guid>
+      <description>This page is under construction. However, you can find our capability on this service from the PDF file in the link below</description>
+    </item>
+    
+    <item>
+      <title>Data Solutions and Analytics</title>
+      <link>http://asq.vn/whatwedo/datascience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://asq.vn/whatwedo/datascience/</guid>
+      <description>Time Series Data and Panel Data of Operations of Building and Engineering Systems such as a Water Treatment Plant, a Power Station, or a Pump Station, if being recorded and analyzed appropriately, will give engineers and managers a window of insightful pictures on
+ Efficiency Reliability and Stability Correlation of variables Bottlenecks Risk factors and impacts  By understanding those, optimal decisions can be made. The tasks on data solutions and analytics can also be linked to Asset Management and Auditing tasks using the power of statistical correlation and prediction capacity, which could potentially save significant cost for asset&#39;s owners.</description>
+    </item>
+    
+    <item>
+      <title>Engineering Asset Management</title>
+      <link>http://asq.vn/whatwedo/am/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://asq.vn/whatwedo/am/</guid>
+      <description>Asset Management is the optimal allocation of the scarce budget between the new arrangement of asset and rehabilitation, maintenance of the existing assets to maximize the value of the stock of assets and to realize the maximum outcomes for the stakeholders.
+ We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.</description>
+    </item>
+    
+    <item>
+      <title>Technical Due Diligence</title>
+      <link>http://asq.vn/whatwedo/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://asq.vn/whatwedo/tdd/</guid>
+      <description>We provide Technical Due Diligence (TDD) services that involve a process of systematic review, analysis, and discovery of the conditions of assets from various viewpoints such as architectural, constructional, structural, MEP, fire safety and external façade checking.
+The TDD services also consists of a review and analysis of cost estimation for short, medium, or long-term preventive intervention program. We utilize experience and knowledge of asset management in the context of TDD to provide optimal set of advices regarding future investment on the assets.</description>
+    </item>
+    
+  </channel>
+</rss>

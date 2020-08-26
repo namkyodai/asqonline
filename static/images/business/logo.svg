@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="80.180708"
+     inkscape:cy="923.11079"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <circle
+       style="opacity:0.98000004;fill:#ebf0f2;fill-opacity:1;stroke:none;stroke-width:0.59238356;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path858"
+       cx="43.573895"
+       cy="42.869095"
+       r="37.317818" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:97.81835175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01894116"
+       x="11.932607"
+       y="82.817619"
+       id="text817"
+       transform="scale(1.0672809,0.93696045)"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="11.932607"
+         y="82.817619"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Mincho';-inkscape-font-specification:'Yu Mincho';fill:#00e000;fill-opacity:1;stroke-width:1.01894116">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.71460533px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b47100;fill-opacity:1;stroke:none;stroke-width:0.7797752"
+       x="31.032457"
+       y="65.423485"
+       id="text817-7"><tspan
+         sodipodi:role="line"
+         id="tspan815-7"
+         x="31.032457"
+         y="65.423485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Mincho';-inkscape-font-specification:'Yu Mincho';fill:#b47100;fill-opacity:1;stroke-width:0.7797752">eam</tspan></text>
+    <path
+       style="fill:#0000f0;fill-opacity:1;stroke:none;stroke-width:0.7797752px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47.376035,32.573821 74.111182,22.548145 53.781326,42.042529 52.667361,35.915708 Z"
+       id="path839"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#0000f0;fill-opacity:1;stroke:none;stroke-width:0.7797752px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 40.112776,51.998984 13.377629,62.024642 33.707486,42.530276 34.821449,48.65708 Z"
+       id="path839-3"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:0.98000004;fill:#eb0800;fill-opacity:1;stroke:none;stroke-width:0.68351942;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path856"
+       cx="43.588547"
+       cy="41.671982"
+       rx="8.3547354"
+       ry="7.8727307" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+</svg>

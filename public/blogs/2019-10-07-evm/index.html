@@ -1,0 +1,227 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="ASQ is a spin-off start up firm from ETH Zurich and Kyoto University specialized in engineering asset management and data analytics and data solution for engineering systems">
+	<meta name="author" content="ASQ Consulting Ltd">
+	<meta name="generator" content="Hugo 0.60.0" />
+	<title>Earned Value Management &middot; ASQ Consulting Ltd</title>
+	<!-- Stylesheets -->
+	
+	<link rel="stylesheet" href="http://asq.vn/css/main.css"/>
+	
+	
+	
+
+	
+
+	<!-- Custom Fonts -->
+	<link href="http://asq.vn/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	
+	<link rel="shortcut icon" type="image/x-icon" href="http://asq.vn/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="http://asq.vn/favicon.ico">
+	
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="js/ie/html5shiv.js"></script>
+	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
+	<![endif]-->
+</head>
+
+    <body>
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+    <header id="header" class="alt">
+        <a href="http://asq.vn/" class="logo"><strong>ASQ</strong> <span>Consulting Ltd</span></a>
+
+        <nav>
+
+            <a href="#menu">Menu</a>
+        </nav>
+
+
+    </header>
+
+
+
+<!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            
+                <li><a href="http://asq.vn/">Home</a></li>
+            
+                <li><a href="http://asq.vn/elements.html">News</a></li>
+            
+                <li><a href="http://asq.vn/whatwedo">Our Expertise</a></li>
+            
+                <li><a href="http://asq.vn/projects">Projects</a></li>
+            
+                <li><a href="http://asq.vn/">Meet Our Team</a></li>
+            
+                <li><a href="http://asq.vn/">Publications</a></li>
+            
+
+        </ul>
+        <ul class="actions vertical">
+            
+                <li><a href="http://asq.vn/vi" class="button special fit">Tiếng Việt</a></li>
+            
+            
+        </ul>
+    </nav>
+
+
+        <!-- Main -->
+            <div id="main" class="alt">
+
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>Earned Value Management</h1>
+                            </header>
+                            
+                                <span class="image main"><img src="/img/blogs/https://raw.githubusercontent.com/namkyodai/BusinessAnalytics/master/EVM/evm.png" alt="" /></span>
+                            
+                            <p>Earned Value Management (EVM) is a widely used method, if not to say, a imperative method in project management. Without the EVM, the Project Managers and stakeholders (PM) cannot track and monitor the Progress and Schedule, cannot understand the causes of problems and delays.</p>
+<p>In a large scale engineering project, Contractors shall have an excellent and FULL TIME experienced Planners who can confidently perform EVM analysis and report to the PM and the project team weekly and monthly. The analysis report shall includes</p>
+<ul>
+<li>Updated Project Schedule with actual progress;</li>
+<li>Comparison between the Actual Progress vs Baselines;</li>
+<li>Critical Path Analysis (CPA) and identification of factors contributing to especially delays;
+The EVM.</li>
+</ul>
+<p><!-- raw HTML omitted --><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/EarnedValueChartNormalized.jpg" alt="Foo"><!-- raw HTML omitted --></p>
+<p>It seems that creating the graph like the one shown above is EASY.  Nope, it is not easy at all, but if it is not difficult if Planners understand the statistics and a smart way to work with compiling data.</p>
+<p>This article presents 2 different ways to generate the EVM graphs.</p>
+<h1 id="evm-for-consultancy-project-using-ms-project-and-r">EVM for Consultancy Project using MS Project and R</h1>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#75715e">#Coded by Nam Le (namlt@prontonmail.ch)</span>
+<span style="color:#a6e22e">library</span>(scales)
+<span style="color:#a6e22e">library</span>(reshape2)
+<span style="color:#a6e22e">library</span>(ggplot2)
+
+<span style="color:#75715e">#----------DATA-----------------</span>
+data <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">read.csv</span>(file<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">Scurve.csv&#34;</span>, header<span style="color:#f92672">=</span><span style="color:#66d9ef">TRUE</span>, sep<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">,&#34;</span>)
+k<span style="color:#f92672">=</span><span style="color:#a6e22e">data.frame</span>(data)
+
+<span style="color:#75715e"># -----------------------------This needs to be modified whenever you plot</span>
+
+<span style="color:#a6e22e">plot.new</span>()
+<span style="color:#a6e22e">par</span>(mar<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">4</span>, <span style="color:#ae81ff">4</span>, <span style="color:#ae81ff">4</span>, <span style="color:#ae81ff">4</span>), bg<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">ivory&#34;</span>)
+week<span style="color:#f92672">=</span> <span style="color:#a6e22e">length</span>(data[<span style="color:#f92672">!</span><span style="color:#a6e22e">is.na</span>(data[,<span style="color:#ae81ff">3</span>]),<span style="color:#ae81ff">3</span>]) <span style="color:#75715e">#the lastest week that EV value is available. Or you can simply put the number of week in instead of using length(data[!is.na(data[,3]),3]). Here 3 is the column.</span>
+scalefactor<span style="color:#f92672">=</span><span style="color:#ae81ff">100</span>
+trucy<span style="color:#f92672">=</span><span style="color:#ae81ff">100</span>
+ticktime<span style="color:#f92672">=</span><span style="color:#ae81ff">35</span>   <span style="color:#75715e">#Set the Project Week at which you want to limit the X-axis</span>
+varrange<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">-30</span>,<span style="color:#ae81ff">30</span>)
+
+<span style="color:#75715e">#Posion of texbox (PV, EV, and VAR in the graph)</span>
+htextbox<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(week<span style="color:#ae81ff">-5</span>,week)
+vtextbox<span style="color:#f92672">=</span><span style="color:#ae81ff">20</span>
+ <span style="color:#75715e"># --------------------------------</span>
+ <span style="color:#75715e"># ----------------------------</span>
+<span style="color:#75715e">#Plot the baseline</span>
+
+<span style="color:#a6e22e">plot</span>(data<span style="color:#f92672">$</span>BS01[1<span style="color:#f92672">:</span>ticktime],pch<span style="color:#f92672">=</span><span style="color:#ae81ff">4</span>,axes<span style="color:#f92672">=</span><span style="color:#66d9ef">FALSE</span>,ylim<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">0</span>,trucy),ylab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>, xlab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>,col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">blue&#34;</span>,type<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">o&#34;</span>,lwd<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,lty<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, main <span style="color:#f92672">=</span><span style="color:#a6e22e">paste</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">S-curve of week&#34;</span>, week))
+<span style="color:#a6e22e">axis</span>(<span style="color:#ae81ff">2</span>, ylim<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">0</span>,trucy),col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">darkblue&#34;</span>,las<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#a6e22e">mtext</span>(<span style="color:#a6e22e">expression</span>(<span style="color:#a6e22e">paste</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">Cummulative percentage (%)&#34;</span>)),side<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>,line<span style="color:#f92672">=</span><span style="color:#ae81ff">2.2</span>, adj <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.5</span> )
+<span style="color:#a6e22e">axis</span>(<span style="color:#ae81ff">1</span>,<span style="color:#a6e22e">pretty</span>(<span style="color:#a6e22e">range</span>(data<span style="color:#f92672">$</span>Week),<span style="color:#ae81ff">30</span>))
+<span style="color:#a6e22e">mtext</span>(<span style="color:#a6e22e">expression</span>(<span style="color:#a6e22e">paste</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">Project Week&#34;</span>)),side<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">black&#34;</span>,line<span style="color:#f92672">=</span><span style="color:#ae81ff">2.2</span>)
+<span style="color:#a6e22e">box</span>()
+
+<span style="color:#75715e">#plot the EV curve</span>
+<span style="color:#a6e22e">par</span>(new<span style="color:#f92672">=</span><span style="color:#66d9ef">TRUE</span>)
+<span style="color:#a6e22e">plot</span>(data<span style="color:#f92672">$</span>EV[1<span style="color:#f92672">:</span>ticktime],pch<span style="color:#f92672">=</span><span style="color:#ae81ff">18</span>,axes<span style="color:#f92672">=</span><span style="color:#66d9ef">FALSE</span>,ylim<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">0</span>,trucy),ylab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>, xlab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>,col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">red&#34;</span>,type<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">o&#34;</span>,lwd<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,lty<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>)
+
+<span style="color:#75715e">#adding stick at the actual week</span>
+<span style="color:#a6e22e">abline</span>(v<span style="color:#f92672">=</span>week, col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">darkviolet&#34;</span>,lty<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
+
+<span style="color:#a6e22e">par</span>(new<span style="color:#f92672">=</span><span style="color:#66d9ef">TRUE</span>)
+<span style="color:#75715e">#library(gplots)</span>
+<span style="color:#a6e22e">library</span>(astro) <span style="color:#75715e">#this package is for astronomy but it has some fantastic function for plotting. Here I use the textbox function</span>
+<span style="color:#a6e22e">textbox</span>(htextbox, vtextbox, textlist<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#a6e22e">paste</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">PV  =&#34;</span>,<span style="color:#a6e22e">format</span>(<span style="color:#a6e22e">round</span>(data<span style="color:#f92672">$</span>BS01[week],<span style="color:#ae81ff">2</span>)),<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">EV  =&#34;</span>,<span style="color:#a6e22e">format</span>(<span style="color:#a6e22e">round</span>(data<span style="color:#f92672">$</span>EV[week],<span style="color:#ae81ff">2</span>)),<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">VAR=&#34;</span>,<span style="color:#a6e22e">format</span>(<span style="color:#a6e22e">round</span>(data<span style="color:#f92672">$</span>EV[week]<span style="color:#f92672">-</span>data<span style="color:#f92672">$</span>BS01[week],<span style="color:#ae81ff">2</span>)))), justify<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;</span><span style="color:#e6db74">f&#39;</span>, cex<span style="color:#f92672">=</span><span style="color:#ae81ff">0.7</span>,col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">purple&#34;</span>, font<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, border<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">green&#34;</span>, margin<span style="color:#f92672">=</span><span style="color:#ae81ff">-0.025</span>,adj<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>,box<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,fill<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">aliceblue&#34;</span>)
+<span style="color:#75715e">#alternatively, we can also use legend function for the same purpose, but I believe textbox function gives better look.</span>
+
+<span style="color:#75715e">#legend(30, 50, c(paste(&#34;PV:&#34;),format(round(data$BS01[week],2)),paste(&#34;EV:&#34;),format(round(data$EV[week],2)), paste(&#34;VAR:&#34;),format(round(data$BS01[week]-data$EV[week],2))), col=c(&#34;blue&#34;,&#34;red&#34;,&#34;green&#34;),cex = 0.6)</span>
+
+ <span style="color:#75715e">#plot the VAR curve using</span>
+<span style="color:#a6e22e">par</span>(new<span style="color:#f92672">=</span><span style="color:#66d9ef">TRUE</span>)
+<span style="color:#a6e22e">plot</span>((data<span style="color:#f92672">$</span>EV[1<span style="color:#f92672">:</span>ticktime]<span style="color:#f92672">-</span>data<span style="color:#f92672">$</span>BS01[1<span style="color:#f92672">:</span>ticktime]),pch<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,axes<span style="color:#f92672">=</span><span style="color:#66d9ef">FALSE</span>,ylim<span style="color:#f92672">=</span>varrange,ylab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>, xlab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>,col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">cadetblue4&#34;</span>,type<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">o&#34;</span>,lwd<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,lty<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
+<span style="color:#a6e22e">axis</span>(<span style="color:#ae81ff">4</span>, ylim<span style="color:#f92672">=</span>varrange,col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">darkblue&#34;</span>,las<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#a6e22e">mtext</span>(<span style="color:#a6e22e">expression</span>(<span style="color:#a6e22e">paste</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">Variance (%)&#34;</span>)),side<span style="color:#f92672">=</span><span style="color:#ae81ff">4</span>,line<span style="color:#f92672">=</span><span style="color:#ae81ff">2.2</span>, adj <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.5</span>  )
+<span style="color:#a6e22e">abline</span>(h<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>, col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">darkviolet&#34;</span>,lty<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
+
+ <span style="color:#75715e">#plot the AC curve: This curve is added only for internal monitoring purpose. Shall not give this to the other stakeholders.</span>
+<span style="color:#a6e22e">par</span>(new<span style="color:#f92672">=</span><span style="color:#66d9ef">TRUE</span>)
+<span style="color:#a6e22e">plot</span>(data<span style="color:#f92672">$</span>AC[1<span style="color:#f92672">:</span>ticktime],pch<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>,axes<span style="color:#f92672">=</span><span style="color:#66d9ef">FALSE</span>,ylim<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">0</span>,trucy),ylab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>, xlab<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">&#34;</span>,col<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">violetred3&#34;</span>,type<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">o&#34;</span>,lwd<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,lty<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#75715e">#axis(4, ylim=varrange,col=&#34;darkblue&#34;,las=1)</span>
+<span style="color:#75715e">#mtext(expression(paste(&#34;Variance (%)&#34;)),side=4,line=2.2, adj = 0.5  )</span>
+<span style="color:#75715e">#abline(h=0, col=&#34;darkviolet&#34;,lty=3)</span>
+
+<span style="color:#75715e">#adding Planned Value, Earned Value, and Variance</span>
+<span style="color:#75715e">#adding legend</span>
+<span style="color:#a6e22e">legend</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">topleft&#34;</span>, <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">PV&#34;</span>,<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">EV&#34;</span>, <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">VAR&#34;</span>, <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">AC&#34;</span>), text.col
+<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">red&#34;</span>, border <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">white&#34;</span>,box.lwd <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>,bg<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">aliceblue&#34;</span>,lwd <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>,pch<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">4</span>,<span style="color:#ae81ff">18</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">2</span>),lty <span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">3</span>,<span style="color:#ae81ff">1</span>),  col<span style="color:#f92672">=</span><span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">blue&#34;</span>,<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">red&#34;</span>,<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">cadetblue4&#34;</span>,<span style="color:#e6db74">&#34;</span><span style="color:#e6db74">violetred3&#34;</span>),inset <span style="color:#f92672">=</span> <span style="color:#ae81ff">.05</span>,cex<span style="color:#f92672">=</span><span style="color:#ae81ff">0.8</span>)
+
+<span style="color:#75715e">#save png file</span>
+<span style="color:#a6e22e">dev.copy</span>(png,<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">evm.png&#39;</span>,width <span style="color:#f92672">=</span> <span style="color:#ae81ff">800</span>, height <span style="color:#f92672">=</span> <span style="color:#ae81ff">500</span>)
+<span style="color:#a6e22e">dev.off</span>()
+<span style="color:#75715e">#-----THE END------------</span>
+</code></pre></div><p><!-- raw HTML omitted --><img src="https://raw.githubusercontent.com/namkyodai/BusinessAnalytics/master/EVM/evm.png" alt="Foo"><!-- raw HTML omitted --></p>
+
+                        </div>
+                    </section>
+            <!-- Disqus Inject -->
+                
+            </div>
+            
+        <!-- Footer -->
+            
+                <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                
+                    <li><a href="https://www.github.com" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+                
+                    <li><a href="https://www.linkedin.com" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+                
+            </ul>
+            <ul class="copyright">
+                <li>&copy; ASQ Consulting Ltd.</li>
+                
+            </ul>
+        </div>
+    </footer>
+
+            
+        </div>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+    <!-- jQuery -->
+    <script src="http://asq.vn/js/jquery.min.js"></script>
+    <script src="http://asq.vn/js/jquery.scrolly.min.js"></script>
+    <script src="http://asq.vn/js/jquery.scrollex.min.js"></script>
+    <script src="http://asq.vn/js/skel.min.js"></script>
+    <script src="http://asq.vn/js/util.js"></script>
+
+    
+
+    <!-- Main JS -->
+    <script src="http://asq.vn/js/main.js"></script>
+
+    
+
+    
+
+    </body>
+</html>
