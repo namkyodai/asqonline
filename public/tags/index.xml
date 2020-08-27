@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ASQ Consulting Ltd</title>
-    <link>http://asq.vn/tags/</link>
+    <link>https://asqonline.github.io/tags/</link>
     <description>Recent content in Tags on ASQ Consulting Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2019 23:30:45 +0800</lastBuildDate>
     
-	<atom:link href="http://asq.vn/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asqonline.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

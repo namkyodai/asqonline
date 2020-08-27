@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Who We are on ASQ Consulting Ltd</title>
-    <link>http://asq.vn/about/</link>
+    <link>https://asqonline.github.io/about/</link>
     <description>Recent content in Who We are on ASQ Consulting Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="http://asq.vn/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asqonline.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

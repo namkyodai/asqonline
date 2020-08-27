@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apps on ASQ Consulting Ltd</title>
-    <link>http://asq.vn/apps/</link>
+    <link>https://asqonline.github.io/apps/</link>
     <description>Recent content in Apps on ASQ Consulting Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Oct 2019 11:08:22 +0800</lastBuildDate>
     
-	<atom:link href="http://asq.vn/apps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://asqonline.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Weibull Analysis - An example</title>
-      <link>http://asq.vn/apps/weibulllcc/</link>
+      <link>https://asqonline.github.io/apps/weibulllcc/</link>
       <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
       
-      <guid>http://asq.vn/apps/weibulllcc/</guid>
+      <guid>https://asqonline.github.io/apps/weibulllcc/</guid>
       <description>Determination of Optimal Intervention Strategy for Pumps based on Weibull Analysis</description>
     </item>
     
