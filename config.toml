@@ -209,7 +209,7 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "contact@asp.vn"
+    email = "hallo.asq@protonmail.com"
 
     [[params.contact.phone]]
     title = "Phone"
@@ -427,7 +427,7 @@ disqusShortname = ""
           # by copying the corresponding map with frontmatter code.
           [[languages.vi.params.contact.email]]
           title = "Thư điện tử"
-          email = "contact@asq.vn"
+          email = "hallo.asq@protonmail.com"
 
           [[languages.vi.params.contact.phone]]
           title = "Điện thoại"
