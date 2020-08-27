@@ -1,4 +1,4 @@
-baseURL = "https://asqonline.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "AS Consulting Ltd"
 theme = "forty"
