@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASQ Consulting Ltd</title>
-    <link>https://asqonline.github.io/</link>
+    <link>/</link>
     <description>Recent content on ASQ Consulting Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Feb 2020 11:08:22 +0800</lastBuildDate>
     
-	<atom:link href="https://asqonline.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mechanical &amp; Electrical Audits </title>
-      <link>https://asqonline.github.io/blogs/mep/</link>
+      <link>/blogs/mep/</link>
       <pubDate>Tue, 11 Feb 2020 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/mep/</guid>
+      <guid>/blogs/mep/</guid>
       <description>Services include Visual Inspection, Desktop study on historical records, physical testing and measurement for Mechanical and Electrical assets (e.g. HAVC, transformers, GENSETs, Pumps, Chillers, Fire Protection and FDAS devices) of
  Cleanrooms Bio-chem facilities Food and Medical facilities Oil &amp;amp; Gas stations Chemical and Process Plants and Chillers systems Water Distribution Networks and Utilities (e.g. Water Treatment Plants, Waste Water Treatment Plants, Pump Stations and Reservoirs, Pipelines) Retail and Shopping Malls Commercial, BPOs, Real Estate properties  Mechanical Audit Qualitative and Operational Analysis Failure Mode and Effects Analysis (FMEA) will be implemented for the purpose of qualitative and operational analysis.</description>
     </item>
     
     <item>
       <title>DAO2016 Compliance Assessment of Wastewater Assets</title>
-      <link>https://asqonline.github.io/projects/ipsum/</link>
+      <link>/projects/ipsum/</link>
       <pubDate>Mon, 10 Feb 2020 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/projects/ipsum/</guid>
+      <guid>/projects/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
 The Client Manila Technical Venture., an affiliate company of Manila Water Inc. The Projects Manila Water operates a significant numbers of wastewater treatment facilities in the region of Luzon, Visaya, Mindoro, and Mindanao.</description>
     </item>
     
     <item>
       <title>TDD and Asset Management for Hanjin Shipyard (Subic Bay)</title>
-      <link>https://asqonline.github.io/projects/2020-hanjin-shipyard/</link>
+      <link>/projects/2020-hanjin-shipyard/</link>
       <pubDate>Mon, 10 Feb 2020 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/projects/2020-hanjin-shipyard/</guid>
+      <guid>/projects/2020-hanjin-shipyard/</guid>
       <description>Clients A Global Capital Investment Firm (confidential)
 The Project Hanjin Shipyard is one of the biggest and largest heavy Shipyard in the world. It was constructed by Hanjin Heavy Industries and Construction Philippines (HHIC Phil). It was in operation from 2006 and has commissioned a number of large commercial ships and oil tankers for global Clients.
 Since 2018, HHIC Phil faced financial challenges and filed for bankruptcy. In 2020, the Shipyard has attracted a Global Capital Investment Firm, who wishes to take the ownership of the entire shipyard by executing an Distressed Investment.</description>
@@ -44,39 +44,39 @@ Since 2018, HHIC Phil faced financial challenges and filed for bankruptcy. In 20
     
     <item>
       <title>TDD and Asset Management for 30 Story Building in BGC</title>
-      <link>https://asqonline.github.io/projects/2020hankyu/</link>
+      <link>/projects/2020hankyu/</link>
       <pubDate>Thu, 30 Jan 2020 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/projects/2020hankyu/</guid>
+      <guid>/projects/2020hankyu/</guid>
       <description>The Client Hankyu Construction Management Inc., an affiliate company of Hankyu Hanshin Properties Cor The project The Client engaged the team to perform an extensive TDD work to evaluate the condition and operation states of a 30 storey high-rise building located in a strategic location in Bonifacio Global City (BGC).
 The project has been conducted within 3 weeks including 1-2 weeks jointed visual inspection and assessment to the site and 1 week analyzing and reporting the findings.</description>
     </item>
     
     <item>
       <title>Structural Evaluation for the Heritage Manila Hotel</title>
-      <link>https://asqonline.github.io/projects/2019-heritagemanilahotel/</link>
+      <link>/projects/2019-heritagemanilahotel/</link>
       <pubDate>Sun, 10 Nov 2019 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/projects/2019-heritagemanilahotel/</guid>
+      <guid>/projects/2019-heritagemanilahotel/</guid>
       <description>Clients Grand Plaza Hotel Corporation.
 The Project The building was formerly named as Swiss/Manila Palace Hotel which was designed by Gabriel Formosa and Partners, RN Ferrer and Associates and DCCD Engineering, and was constructed in 1975. In 1986 the building was closed-down due to fire incident on the 3rd floor, 4th floor, 6th Floor and 8th Floor. Grand Plaza bought the building and architecturally rehabilitated in 1994 to a 4-star luxury hotel now called Heritage Hotel.</description>
     </item>
     
     <item>
       <title>Weibull Analysis - An example</title>
-      <link>https://asqonline.github.io/apps/weibulllcc/</link>
+      <link>/apps/weibulllcc/</link>
       <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/apps/weibulllcc/</guid>
+      <guid>/apps/weibulllcc/</guid>
       <description>Determination of Optimal Intervention Strategy for Pumps based on Weibull Analysis</description>
     </item>
     
     <item>
       <title>Fuel Efficiency - Regression Analysis</title>
-      <link>https://asqonline.github.io/blogs/2019-10-10-fuel-efficiency/</link>
+      <link>/blogs/2019-10-10-fuel-efficiency/</link>
       <pubDate>Thu, 10 Oct 2019 23:30:45 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/2019-10-10-fuel-efficiency/</guid>
+      <guid>/blogs/2019-10-10-fuel-efficiency/</guid>
       <description>This example shows a very simple regression analysis using fuel data of 38 cars. Code is copied from the book “Data Mining and Business Analytics with R” with minor modification on the graphs.
 There are 2 learning points to be remembered with this example.
 Leaps package with regsubsets fuction. Regsubsets function allows to perform regression on subsets of data, particularly useful to compare across model’s predictors to understand the fit of the model.</description>
@@ -84,60 +84,60 @@ Leaps package with regsubsets fuction. Regsubsets function allows to perform reg
     
     <item>
       <title>Removing Space of files inside folders/subfolders in bulk</title>
-      <link>https://asqonline.github.io/blogs/2019-10-10-remove-space-in-bulk/</link>
+      <link>/blogs/2019-10-10-remove-space-in-bulk/</link>
       <pubDate>Thu, 10 Oct 2019 23:30:45 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/2019-10-10-remove-space-in-bulk/</guid>
+      <guid>/blogs/2019-10-10-remove-space-in-bulk/</guid>
       <description>In many cases, we need to remove space in the names of files saved inside a tree of folders/subfolders. We can use following CODE to do the job.
 :renameNoSpace [/R]@echo offsetlocal disableDelayedExpansionif /i &amp;quot;%~1&amp;quot;==&amp;quot;/R&amp;quot; (set &amp;quot;forOption=%~1 %2&amp;quot;set &amp;quot;inPath=&amp;quot;) else (set &amp;quot;forOption=&amp;quot;if &amp;quot;%~1&amp;quot; neq &amp;quot;&amp;quot; (set &amp;quot;inPath=%~1\&amp;quot;) else set &amp;quot;inPath=&amp;quot;)for %forOption% %%F in (&amp;quot;%inPath%* *&amp;quot;) do (if /i &amp;quot;%~f0&amp;quot; neq &amp;quot;%%~fF&amp;quot; (set &amp;quot;folder=%%~dpF&amp;quot;set &amp;quot;file=%%~nxF&amp;quot;setlocal enableDelayedExpansionecho ren &amp;quot;!</description>
     </item>
     
     <item>
       <title>Earned Value Management</title>
-      <link>https://asqonline.github.io/blogs/2019-10-07-evm/</link>
+      <link>/blogs/2019-10-07-evm/</link>
       <pubDate>Mon, 07 Oct 2019 23:30:45 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/2019-10-07-evm/</guid>
+      <guid>/blogs/2019-10-07-evm/</guid>
       <description>Earned Value Management (EVM) is a widely used method, if not to say, a imperative method in project management. Without the EVM, the Project Managers and stakeholders (PM) cannot track and monitor the Progress and Schedule, cannot understand the causes of problems and delays.
 In a large scale engineering project, Contractors shall have an excellent and FULL TIME experienced Planners who can confidently perform EVM analysis and report to the PM and the project team weekly and monthly.</description>
     </item>
     
     <item>
       <title>Return on Investment (ROI) for Intervention of Pumps under uncertainties</title>
-      <link>https://asqonline.github.io/blogs/2019-09-29-pump-efficiency/</link>
+      <link>/blogs/2019-09-29-pump-efficiency/</link>
       <pubDate>Sun, 29 Sep 2019 23:30:45 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/2019-09-29-pump-efficiency/</guid>
+      <guid>/blogs/2019-09-29-pump-efficiency/</guid>
       <description>This post describes a generic approach on the computation of Net Present Value (NPV) and Life Cycle Cost estimation (LCC) for Preventive Intervention (PI) on pumps (e.g. centrifugal pumps) when decision makers are uncertain on, or do not have a rich set of data on failure of pump components.
 Ideally, failure data on pump components should be recorded in time-series fashion that allows analyst to investigate on the frequency of failure and come up with a prediction.</description>
     </item>
     
     <item>
       <title>Excel worksheets combination</title>
-      <link>https://asqonline.github.io/blogs/2019-09-15-excel-combine/</link>
+      <link>/blogs/2019-09-15-excel-combine/</link>
       <pubDate>Sun, 15 Sep 2019 23:30:45 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/2019-09-15-excel-combine/</guid>
+      <guid>/blogs/2019-09-15-excel-combine/</guid>
       <description>What if our Client provides us with a number of poorly recorded databases with thousands of records in different Excel formats? not only that, within each Excel file, there are hundreds of worksheets with in-homogeneous structures –F.. Excel ^_^, but that is the reality, particularly when we have to work with Clients whose business are not much involved with TECH.
 What if our Client provides us with a number of poorly recorded databases with thousands of records in different Excel formats?</description>
     </item>
     
     <item>
       <title>Detailed Engineering Evaluation of Hangar (Subic)</title>
-      <link>https://asqonline.github.io/projects/2018-subichangar/</link>
+      <link>/projects/2018-subichangar/</link>
       <pubDate>Mon, 10 Dec 2018 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/projects/2018-subichangar/</guid>
+      <guid>/projects/2018-subichangar/</guid>
       <description>Clients Aviation Concepts Technical Services Inc.
 The Project The project is for the detailed engineering design of the retrofitting, rehabilitation and modification of the Hangar Facility. The project scope also includes preparation of technical tender documents and detailed cost estimate and bill of quantities. Part of the service is to provide technical support to the client for the site inspection during construction and any amendments or clarifications needed to maintain the program.</description>
     </item>
     
     <item>
       <title>TDD for Water Network and Utilities in Vietnam</title>
-      <link>https://asqonline.github.io/projects/2018-vietnamwaterutilities/</link>
+      <link>/projects/2018-vietnamwaterutilities/</link>
       <pubDate>Sat, 10 Nov 2018 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/projects/2018-vietnamwaterutilities/</guid>
+      <guid>/projects/2018-vietnamwaterutilities/</guid>
       <description>Clients Olympus Capital Asia.
 The Project Olympus Capital engaged our team to conduct a technical due diligence on the various Water Treatment Plants (WTPs) in Vietnam. These WTPs are under the ownership of DNP Corporation.
 DNP Corporation is an investment holding company, operating in four key business areas: clean water supply; production of plastic pipes and fittings; engineering &amp;amp; industrial plastic products; export plastic packaging bags. DNP-Water is a member unit of DNP, specializing in water sector investment.</description>
@@ -145,55 +145,55 @@ DNP Corporation is an investment holding company, operating in four key business
     
     <item>
       <title>Aliquam</title>
-      <link>https://asqonline.github.io/blogs/aliquam/</link>
+      <link>/blogs/aliquam/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/aliquam/</guid>
+      <guid>/blogs/aliquam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tempus</title>
-      <link>https://asqonline.github.io/blogs/training/</link>
+      <link>/blogs/training/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/training/</guid>
+      <guid>/blogs/training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training</title>
-      <link>https://asqonline.github.io/whatwedo/training/</link>
+      <link>/whatwedo/training/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>https://asqonline.github.io/whatwedo/training/</guid>
+      <guid>/whatwedo/training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magna</title>
-      <link>https://asqonline.github.io/blogs/magna/</link>
+      <link>/blogs/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/magna/</guid>
+      <guid>/blogs/magna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>https://asqonline.github.io/blogs/ipsum/</link>
+      <link>/blogs/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/ipsum/</guid>
+      <guid>/blogs/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
     <item>
       <title>Technical Due Diligence for Bayer House</title>
-      <link>https://asqonline.github.io/projects/ipsum/</link>
+      <link>/projects/ipsum/</link>
       <pubDate>Sat, 10 Dec 2016 11:08:22 +0800</pubDate>
       
-      <guid>https://asqonline.github.io/projects/ipsum/</guid>
+      <guid>/projects/ipsum/</guid>
       <description>Clients Bayer Philippines Inc.
 The Project Bayer House is a five-storey office used building with an approximate building floor area of 4,624 square meter which was occupied at year 1999. The building is a bearing wall system with flat slab and is located approximately 5.6 km away from the main active seismic source which is the is the East and West Marikina Valley Fault System.
 The team has been appointed by Bayer Philippines Incorporated to carry out structural assessment of the building to be in line with the latest National Structural Code of Philippines (NSCP 2010) and to propose a concept level structural upgrading and strengthening measures to avoid any severe damage to the existing building during earthquake; conduct due diligence on the Mechanical, Electrical, Plumbing and Fire Protection (MEPF) services; and provide a proposal on the retrofitting design and details for all structural elements that are found to be structurally insufficient under the building code.</description>
@@ -201,106 +201,106 @@ The team has been appointed by Bayer Philippines Incorporated to carry out struc
     
     <item>
       <title>Building and Plant Audits</title>
-      <link>https://asqonline.github.io/business/audit/</link>
+      <link>/business/audit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/audit/</guid>
+      <guid>/business/audit/</guid>
       <description>We conduct inspection and testing for buildings and engineering systems to capture assets reliability &amp;amp; efficiency and compliance to applied standards</description>
     </item>
     
     <item>
       <title>Construction Industry Marketing</title>
-      <link>https://asqonline.github.io/whatwedo/constructionmarket/</link>
+      <link>/whatwedo/constructionmarket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/whatwedo/constructionmarket/</guid>
+      <guid>/whatwedo/constructionmarket/</guid>
       <description>This page is under construction. However, you can find our capability on this service from the PDF file in the link below</description>
     </item>
     
     <item>
       <title>Data Solutions and Analytics</title>
-      <link>https://asqonline.github.io/business/datasolutions/</link>
+      <link>/business/datasolutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/datasolutions/</guid>
+      <guid>/business/datasolutions/</guid>
       <description>Using time series and panel dataset on engineering&#39;s parameters and variables of system, we can detect trends, establish correlation, and perform inference analysis that will support Clients on arriving at optimal business solutions</description>
     </item>
     
     <item>
       <title>Data Solutions and Analytics</title>
-      <link>https://asqonline.github.io/whatwedo/datascience/</link>
+      <link>/whatwedo/datascience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/whatwedo/datascience/</guid>
+      <guid>/whatwedo/datascience/</guid>
       <description>Time Series Data and Panel Data of Operations of Building and Engineering Systems such as a Water Treatment Plant, a Power Station, or a Pump Station, if being recorded and analyzed appropriately, will give engineers and managers a window of insightful pictures on
  Efficiency Reliability and Stability Correlation of variables Bottlenecks Risk factors and impacts  By understanding those, optimal decisions can be made. The tasks on data solutions and analytics can also be linked to Asset Management and Auditing tasks using the power of statistical correlation and prediction capacity, which could potentially save significant cost for asset&#39;s owners.</description>
     </item>
     
     <item>
       <title>Digital Monitoring</title>
-      <link>https://asqonline.github.io/business/digitalmornitoring/</link>
+      <link>/business/digitalmornitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/digitalmornitoring/</guid>
+      <guid>/business/digitalmornitoring/</guid>
       <description>Utilizing digital platform and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems</description>
     </item>
     
     <item>
       <title>Energy Audit</title>
-      <link>https://asqonline.github.io/blogs/energy/</link>
+      <link>/blogs/energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/energy/</guid>
+      <guid>/blogs/energy/</guid>
       <description>Energy Audit for Buildings To support our goal of sustainable outcomes for our Clients, we have developed solutions to optimize their energy usage providing a range of benefits to the building owner and occupants.
 The audits come with three different levels of comprehensiveness. Every building and building owner is different and is looking to achieve different objectives. For some it is essential for commercial viability, for others something they would like some expert inputs on before considering further.</description>
     </item>
     
     <item>
       <title>Engineering Asset Management</title>
-      <link>https://asqonline.github.io/whatwedo/am/</link>
+      <link>/whatwedo/am/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/whatwedo/am/</guid>
+      <guid>/whatwedo/am/</guid>
       <description>Asset Management is the optimal allocation of the scarce budget between the new arrangement of asset and rehabilitation, maintenance of the existing assets to maximize the value of the stock of assets and to realize the maximum outcomes for the stakeholders.
  We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.</description>
     </item>
     
     <item>
       <title>Reinforced Concrete (RC) Compressive Test and Cracking Prediction</title>
-      <link>https://asqonline.github.io/blogs/rcstructure/</link>
+      <link>/blogs/rcstructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/rcstructure/</guid>
+      <guid>/blogs/rcstructure/</guid>
       <description>RC structures deteriorate overtime as their conditions and level of services are affected by various factors (e.g. loadings, temperature, working environments). Particularly, some typical RC structures in maritime settings (e.g. ports, jetties) need special attention and require regular auditing with tests to estimate deterioration process and to determine appropriate preventive intervention strategies.
 Our team utilizes a combination of Non-Destructive Tests (e.g. Rebound Hammer, Ultrasonic Pulse Velocity, Core Extraction and Compressive Strength Test, Chloride Penetration) for specific sites to collect data and then use frontier modelling technique (e.</description>
     </item>
     
     <item>
       <title>Road and Bridge Inspection</title>
-      <link>https://asqonline.github.io/blogs/roadbridge/</link>
+      <link>/blogs/roadbridge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/blogs/roadbridge/</guid>
+      <guid>/blogs/roadbridge/</guid>
       <description>Condition of road sections and bridge components deteriorate overtime due to environmental and temperature variation as well as volumes and characteristics of vehicles daily. Infrastructure managers are interested in capturing the conditions and in using the captured date to predict deterioration speed so as they can proactively allocate resources for executing preventive intervention programs.
 Our team is able and capable to provide Clients with walk-through inspection and using digital solutions and technologies to capture relevant road and bridge distresses and using either deterministic or probabilistic models to estimate deterioration speed.</description>
     </item>
     
     <item>
       <title>Technical Due Diligence</title>
-      <link>https://asqonline.github.io/whatwedo/tdd/</link>
+      <link>/whatwedo/tdd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/whatwedo/tdd/</guid>
+      <guid>/whatwedo/tdd/</guid>
       <description>We provide Technical Due Diligence (TDD) services that involve a process of systematic review, analysis, and discovery of the conditions of assets from various viewpoints such as architectural, constructional, structural, MEP, fire safety and external façade checking.
 The TDD services also consists of a review and analysis of cost estimation for short, medium, or long-term preventive intervention program. We utilize experience and knowledge of asset management in the context of TDD to provide optimal set of advices regarding future investment on the assets.</description>
     </item>
     
     <item>
       <title>Traffic Impact Assessment</title>
-      <link>https://asqonline.github.io/business/transportation/</link>
+      <link>/business/transportation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/transportation/</guid>
+      <guid>/business/transportation/</guid>
       <description>We conduct TIA for development project and help Clients to acquire regulatory permits. Our solutions encompases also workzone optimization on road network to minimize negative impacts</description>
     </item>
     

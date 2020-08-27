@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Businesses on ASQ Consulting Ltd</title>
-    <link>https://asqonline.github.io/business/</link>
+    <link>/business/</link>
     <description>Recent content in Businesses on ASQ Consulting Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://asqonline.github.io/business/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/business/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building and Plant Audits</title>
-      <link>https://asqonline.github.io/business/audit/</link>
+      <link>/business/audit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/audit/</guid>
+      <guid>/business/audit/</guid>
       <description>We conduct inspection and testing for buildings and engineering systems to capture assets reliability &amp;amp; efficiency and compliance to applied standards</description>
     </item>
     
     <item>
       <title>Data Solutions and Analytics</title>
-      <link>https://asqonline.github.io/business/datasolutions/</link>
+      <link>/business/datasolutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/datasolutions/</guid>
+      <guid>/business/datasolutions/</guid>
       <description>Using time series and panel dataset on engineering&#39;s parameters and variables of system, we can detect trends, establish correlation, and perform inference analysis that will support Clients on arriving at optimal business solutions</description>
     </item>
     
     <item>
       <title>Digital Monitoring</title>
-      <link>https://asqonline.github.io/business/digitalmornitoring/</link>
+      <link>/business/digitalmornitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/digitalmornitoring/</guid>
+      <guid>/business/digitalmornitoring/</guid>
       <description>Utilizing digital platform and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems</description>
     </item>
     
     <item>
       <title>Traffic Impact Assessment</title>
-      <link>https://asqonline.github.io/business/transportation/</link>
+      <link>/business/transportation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asqonline.github.io/business/transportation/</guid>
+      <guid>/business/transportation/</guid>
       <description>We conduct TIA for development project and help Clients to acquire regulatory permits. Our solutions encompases also workzone optimization on road network to minimize negative impacts</description>
     </item>
     
