@@ -21,7 +21,12 @@ DefaultContentLanguage = "en"
   #  staticDir = ["staticDir_override", "static_vi"]
     weight = 2
 
-
+    [languages.jp]
+      contentDir = "content/jp"
+      title = "ASQコンサルティング株式会社"
+      languageName = "日本語"
+    #  staticDir = ["staticDir_override", "static_vi"]
+      weight = 3
 
 
 defaultContentLanguageInSubdir = true
@@ -109,6 +114,11 @@ disqusShortname = ""
       name = "Tiếng Việt"
       url = "/vi"
 
+
+    [[params.navigation.button1]]
+      name = "日本語"
+      url = "/jp"
+
     # Button Style 2
     # [[params.navigation.button2]]
     #   name = "Log In"
@@ -166,6 +176,12 @@ disqusShortname = ""
       subtitle = "In close collaboration with ETH Zurich, Kyoto University, and local universities, we are contributing to training & education for a next generation of reliability engineers in the region"
       image = "/banner/pic06.jpg"
       url = "whatwedo/training"
+
+    [[params.tiles.showcase]]
+      title = "Brochure "
+      subtitle = "Download ASQ's Brochure in PDF format"
+    #  image = "/banner/pic06.jpg"
+      url = "about/ASQbrochure-en.pdf"
     # You can make more showcases by copy and pasting the code above
     # You can make more showcases by copy and pasting the code above
 
@@ -318,10 +334,13 @@ disqusShortname = ""
             name = "English"
             url = "/"
 
+          [[languages.vi.params.navigation.button1]]
+            name = "日本語"
+            url = "/jp"
           # Button Style 2
-          [[languages.vi.params.navigation.button2]]
-            name = "Log In"
-            url = "#"
+  #        [[languages.vi.params.navigation.button2]]
+  #          name = "Log In"
+  #          url = "#"
 
 
         # Banner section
@@ -342,14 +361,15 @@ disqusShortname = ""
             title = "Giới thiệu"
             subtitle = "ASQ được thành lập như là một sản phẩm Spin-off từ các công trình nghiên cứu tại viện công nghệ thụy Sĩ ETH và đại học Kyoto Nhật Bản. Công ty có thế mạnh trong lĩnh vực áp dụng các mô hình toán xác xuất thống kê và toán ứng dụng trong lĩnh vực xây dựng và quản lý thiết bị và tài sản hạ tầng"
             image = "/banner/pic01.jpg"
-            url = "about/"
+            url = "vi/about/"
             # url = "blogs/aliquam"
 
 
           [[languages.vi.params.tiles.showcase]]
             title = "Đánh giá bất động sản và các hệ thống kĩ thuật cho mục đích mua bán sát nhập M&A"
             subtitle = "ASQ có đội ngũ nghiên cứu và kĩ sư có kinh nghiệm trong việc đánh giá kĩ thuật và định giá các công trình xây dựng và tài sản của công trình. Việc đánh giá được tiến hành trên nền tảng công nghệ và thống kê học sẽ giúp nhà đầu tư đưa ra được các quyết định chiến lược trong việc mua và sát nhập"
-            url = "whatwedo/tdd"
+            url = "vi/whatwedo/tdd"
+
             image = "/banner/pic02.jpg"
             # url = "blogs/aliquam"
 
@@ -386,6 +406,14 @@ disqusShortname = ""
             url = "whatwedo/training"
             # url = "blogs/ipsum"
           # You can make more showcases by copy and pasting the code above
+
+
+          [[languages.vi.params.tiles.showcase]]
+            title = "Tải hồ sơ công ty"
+            subtitle = "Tải hồ sơ ASQ"
+          #  image = "/banner/pic06.jpg"
+            url = "about/ASQbrochure-en.pdf"
+
 
         [languages.vi.params.blog]
           # All blogs defined in their own files. You can find example blogs

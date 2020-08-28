@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/"
                 />
@@ -25,36 +30,106 @@
   <url>
     <loc>/projects/ipsum/</loc>
     <lastmod>2020-02-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/ipsum/"
+                />
   </url>
   
   <url>
     <loc>/projects/</loc>
     <lastmod>2020-02-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/"
+                />
   </url>
   
   <url>
     <loc>/projects/2020-hanjin-shipyard/</loc>
     <lastmod>2020-02-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/2020-hanjin-shipyard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/2020-hanjin-shipyard/"
+                />
   </url>
   
   <url>
     <loc>/projects/2020hankyu/</loc>
     <lastmod>2020-01-30T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/2020hankyu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/2020hankyu/"
+                />
   </url>
   
   <url>
     <loc>/projects/2019-heritagemanilahotel/</loc>
     <lastmod>2019-11-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/2019-heritagemanilahotel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/2019-heritagemanilahotel/"
+                />
   </url>
   
   <url>
     <loc>/apps/</loc>
     <lastmod>2019-10-19T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/apps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/apps/"
+                />
   </url>
   
   <url>
     <loc>/apps/weibulllcc/</loc>
     <lastmod>2019-10-19T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/apps/weibulllcc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/apps/weibulllcc/"
+                />
   </url>
   
   <url>
@@ -64,6 +139,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,6 +172,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/tags/"
                 />
@@ -115,16 +200,46 @@
   <url>
     <loc>/about/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
   </url>
   
   <url>
     <loc>/projects/2018-subichangar/</loc>
     <lastmod>2018-12-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/2018-subichangar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/2018-subichangar/"
+                />
   </url>
   
   <url>
     <loc>/projects/2018-vietnamwaterutilities/</loc>
     <lastmod>2018-11-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/2018-vietnamwaterutilities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/2018-vietnamwaterutilities/"
+                />
   </url>
   
   <url>
@@ -160,6 +275,16 @@
   <url>
     <loc>/whatwedo/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/"
+                />
   </url>
   
   <url>
@@ -180,6 +305,16 @@
   <url>
     <loc>/whatwedo/training/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/training/"
+                />
   </url>
   
   <url>
@@ -215,30 +350,100 @@
   <url>
     <loc>/projects/ipsum/</loc>
     <lastmod>2016-12-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/projects/ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/ipsum/"
+                />
   </url>
   
   <url>
     <loc>/business/audit/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/business/audit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/business/audit/"
+                />
   </url>
   
   <url>
     <loc>/business/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/business/"
+                />
   </url>
   
   <url>
     <loc>/whatwedo/constructionmarket/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/constructionmarket/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/constructionmarket/"
+                />
   </url>
   
   <url>
     <loc>/business/datasolutions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/business/datasolutions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/business/datasolutions/"
+                />
   </url>
   
   <url>
     <loc>/whatwedo/datascience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/datascience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/datascience/"
+                />
   </url>
   
   <url>
     <loc>/business/digitalmornitoring/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/business/digitalmornitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/business/digitalmornitoring/"
+                />
   </url>
   
   <url>
@@ -247,6 +452,16 @@
   
   <url>
     <loc>/whatwedo/am/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/am/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/am/"
+                />
   </url>
   
   <url>
@@ -259,10 +474,30 @@
   
   <url>
     <loc>/whatwedo/tdd/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/tdd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/tdd/"
+                />
   </url>
   
   <url>
     <loc>/business/transportation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/business/transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/business/transportation/"
+                />
   </url>
   
 </urlset>

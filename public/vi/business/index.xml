@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Businesses on Công ty tư vấn ASQ</title>
+    <link>/vi/business/</link>
+    <description>Recent content in Businesses on Công ty tư vấn ASQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/vi/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building and Plant Audits</title>
+      <link>/vi/business/audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/business/audit/</guid>
+      <description>We conduct inspection and testing for buildings and engineering systems to capture assets reliability &amp;amp; efficiency and compliance to applied standards</description>
+    </item>
+    
+    <item>
+      <title>Data Solutions and Analytics</title>
+      <link>/vi/business/datasolutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/business/datasolutions/</guid>
+      <description>Using time series and panel dataset on engineering&#39;s parameters and variables of system, we can detect trends, establish correlation, and perform inference analysis that will support Clients on arriving at optimal business solutions</description>
+    </item>
+    
+    <item>
+      <title>Digital Monitoring</title>
+      <link>/vi/business/digitalmornitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/business/digitalmornitoring/</guid>
+      <description>Utilizing digital platform and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems</description>
+    </item>
+    
+    <item>
+      <title>Traffic Impact Assessment</title>
+      <link>/vi/business/transportation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vi/business/transportation/</guid>
+      <description>We conduct TIA for development project and help Clients to acquire regulatory permits. Our solutions encompases also workzone optimization on road network to minimize negative impacts</description>
+    </item>
+    
+  </channel>
+</rss>
