@@ -76,7 +76,7 @@ disqusShortname = ""
 
       [[params.navigation.links]]
         name = "News"
-        url = "elements.html"
+    #    url = "elements.html"
 
 
     [[params.navigation.links]]
@@ -86,7 +86,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Projects"
-      url = "projects"
+  #    url = "projects"
 
     [[params.navigation.links]]
       name = "Meet Our Team"
@@ -293,7 +293,7 @@ disqusShortname = ""
 
           [[languages.vi.params.navigation.links]]
             name = "Dự Án"
-            url = "projects"
+      #      url = "projects"
 
           [[languages.vi.params.navigation.links]]
               name = "Đội Ngũ Tư Vấn"
