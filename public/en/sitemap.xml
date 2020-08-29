@@ -28,21 +28,6 @@
   </url>
   
   <url>
-    <loc>/projects/ipsum/</loc>
-    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/ipsum/"
-                />
-  </url>
-  
-  <url>
     <loc>/whatwedo/am/</loc>
     <lastmod>2020-02-10T11:08:22+08:00</lastmod>
     <xhtml:link
@@ -54,36 +39,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/whatwedo/am/"
-                />
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>/projects/2020-hanjin-shipyard/</loc>
-    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/2020-hanjin-shipyard/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/2020-hanjin-shipyard/"
                 />
   </url>
   
@@ -129,36 +84,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/whatwedo/datascience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/projects/2020hankyu/</loc>
-    <lastmod>2020-01-30T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/2020hankyu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/2020hankyu/"
-                />
-  </url>
-  
-  <url>
-    <loc>/projects/2019-heritagemanilahotel/</loc>
-    <lastmod>2019-11-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/2019-heritagemanilahotel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/2019-heritagemanilahotel/"
                 />
   </url>
   
@@ -273,36 +198,6 @@
   </url>
   
   <url>
-    <loc>/projects/2018-subichangar/</loc>
-    <lastmod>2018-12-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/2018-subichangar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/2018-subichangar/"
-                />
-  </url>
-  
-  <url>
-    <loc>/projects/2018-vietnamwaterutilities/</loc>
-    <lastmod>2018-11-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/2018-vietnamwaterutilities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/2018-vietnamwaterutilities/"
-                />
-  </url>
-  
-  <url>
     <loc>/blogs/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
     <xhtml:link
@@ -344,21 +239,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/whatwedo/training/"
-                />
-  </url>
-  
-  <url>
-    <loc>/projects/ipsum/</loc>
-    <lastmod>2016-12-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/projects/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/ipsum/"
                 />
   </url>
   

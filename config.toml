@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "AS Consulting Ltd"
+title = "ASQ - Your Engineering Consultant"
 theme = "forty"
 
 DefaultContentLanguage = "en"
@@ -10,20 +10,20 @@ DefaultContentLanguage = "en"
 [languages]
   [languages.en]
     contentDir = "content/en"
-    title = "ASQ Consulting Ltd"
+    title = "ASQ - Your Engineering Consultant"
   #  staticDir2 = "static"
     languageName = "English"
     weight = 1
   [languages.vi]
     contentDir = "content/vi"
-    title = "Công ty tư vấn ASQ"
+    title = "Tư vấn ASQ"
     languageName = "Tiếng Việt"
   #  staticDir = ["staticDir_override", "static_vi"]
     weight = 2
 
     [languages.jp]
       contentDir = "content/jp"
-      title = "ASQコンサルティング株式会社"
+      title = "ASQコンサルティング"
       languageName = "日本語"
     #  staticDir = ["staticDir_override", "static_vi"]
       weight = 3
@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = true
 
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-20712415-4"
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
@@ -51,8 +51,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "ASQ Consulting Ltd"
-  description = "ASQ is a spin-off start up firm from ETH Zurich and Kyoto University specialized in engineering asset management and data analytics and data solution for engineering systems"
+  name = "ASQ - Your Engineering Consultant"
+  description = "ASQ is a spin-off start up Team originated from ETH Zurich and Kyoto University specialized in engineering asset management and data analytics and data solution for engineering systems"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -70,7 +70,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "ASQ"
-    subtitle = "Consulting Ltd"
+    subtitle = "Your Engineering Consultant"
     menu = "Menu"
     # Optional logo as brand stored in img/
 #     logo = "/banner/logo.jpg"
@@ -143,7 +143,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Who We Are"
-      subtitle = "A spin-off start up firm originated from ETH Zurich (Swizerland) and Kyoto University (Japan). We solve real world problems with practical experiences and state-of-the-art innovations in engineering and science"
+      subtitle = "A spin-off start up Team originated from ETH Zurich (Swizerland) and Kyoto University (Japan). We solve real world problems with practical experiences and state-of-the-art innovations in engineering and science"
       image = "/banner/pic01.jpg"
       url = "about/"
 
@@ -240,7 +240,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "ASQ Consulting Ltd."
+    copyright = "ASQ - Your Engineering Consultant"
 
 
 
@@ -292,7 +292,7 @@ disqusShortname = ""
         # Navigation Section
         [languages.vi.params.navigation]
           title = "ASQ"
-          subtitle = " Consulting Ltd"
+          subtitle = "Your Engineering Consultant"
           menu = "Trang Chủ"
           # Optional logo as brand stored in img/
           # logo = "/banner/logo.jpg"
@@ -347,7 +347,7 @@ disqusShortname = ""
         [languages.vi.params.banner]
           # To change the background image on the homepage banner, replace 'banner.jpg' in
           # the 'static/img' folder.
-          title = "Công Ty Tư Vấn ASQ"
+          title = "Tư Vấn ASQ"
           subtitle = "Cung cấp dịch vụ tư vấn kĩ thuật chuyên nghiệp trong lĩnh vực đánh giá và quản lý tài sản cơ sở hạ tầng và các hệ thống kĩ thuật, lập các mô hình toán tối ưu dựa trên dữ liệu vận hành và bảo trì, đánh giá và phân tích thị trường xây dựng."
           buttonText = "Tìm hiểu thêm"
 
@@ -359,7 +359,7 @@ disqusShortname = ""
 
           [[languages.vi.params.tiles.showcase]]
             title = "Giới thiệu"
-            subtitle = "ASQ được thành lập như là một sản phẩm Spin-off từ các công trình nghiên cứu tại viện công nghệ thụy Sĩ ETH và đại học Kyoto Nhật Bản. Công ty có thế mạnh trong lĩnh vực áp dụng các mô hình toán xác xuất thống kê và toán ứng dụng trong lĩnh vực xây dựng và quản lý thiết bị và tài sản hạ tầng"
+            subtitle = "ASQ được thành lập như là một sản phẩm Spin-off từ các công trình nghiên cứu tại viện công nghệ thụy Sĩ ETH và đại học Kyoto Nhật Bản. ASQ có thế mạnh trong lĩnh vực áp dụng các mô hình toán xác xuất thống kê và toán ứng dụng trong lĩnh vực xây dựng và quản lý thiết bị và tài sản hạ tầng"
             image = "/banner/pic01.jpg"
             url = "vi/about/"
             # url = "blogs/aliquam"
@@ -409,7 +409,7 @@ disqusShortname = ""
 
 
           [[languages.vi.params.tiles.showcase]]
-            title = "Hồ sơ công ty bản PDF"
+            title = "Hồ sơ giới thiệu ASQ bản PDF"
             subtitle = "Tải hồ sơ ASQ để biết thêm về năng lực, đề tài nghiên cứu, và các sản phẩm dịch vụ"
             image = "/banner/collaboration.png"
             url = "about/ASQbrochure-en.pdf"
@@ -470,7 +470,7 @@ disqusShortname = ""
         # Footer section
         [languages.vi.params.footer]
           enable = true
-          copyright = "Công ty tư vấn ASQ"
+          copyright = "Tư vấn ASQ"
 
           # Uses font awesome icons
 

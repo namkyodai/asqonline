@@ -11,7 +11,7 @@ image: "images/report.jpg"
 <!-- # What We Stand For
 We believe that for societies to thrive, we must all hold ourselves accountable for tomorrow. That means creating innovative solutions to the challenges the future will bring. It inspires us to stay curious, act locally, and think internationally. -->
 
-**ASQ** là công ty tư vấn chuyên về lĩnh vực quản lý tài sản cơ sở hạ tầng và thiết bị công trình và nhà máy dựa trên nền tảng xác xuất thống kê, tính toán độ tin cậy, và toán tối ưu hệ thống và mạng lưới. Công ty được thành lập vào năm 2018 dựa trên các sản phẩm khoa học và mô hình toán được nhóm nghiên cứu từ Học Viện Kĩ Thuật Liên Bang Thụy Sĩ (ETH Zurich) và Đại Học Kyoto Nhật Bản. Công ty tập hợp một đội ngũ kĩ sư và nghiên cứu viên đến từ các trường đại học và học viện của Việt Nam làm việc toàn phần và bán phần theo từng dự án cụ thể với Khách Hàng.
+**ASQ** chuyên về lĩnh vực quản lý tài sản cơ sở hạ tầng và thiết bị công trình và nhà máy dựa trên nền tảng xác xuất thống kê, tính toán độ tin cậy, và toán tối ưu hệ thống và mạng lưới. ASQ được thành lập vào năm 2018 dựa trên các sản phẩm khoa học và mô hình toán được nhóm nghiên cứu từ Học Viện Kĩ Thuật Liên Bang Thụy Sĩ (ETH Zurich) và Đại Học Kyoto Nhật Bản. ASQ tập hợp một đội ngũ kĩ sư và nghiên cứu viên đến từ các trường đại học và học viện của Việt Nam làm việc toàn phần và bán phần theo từng dự án cụ thể với Khách Hàng.
 
 ASQ là
 
