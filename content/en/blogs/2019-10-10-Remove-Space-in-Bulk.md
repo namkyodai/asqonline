@@ -2,13 +2,13 @@
 #layout: post
 #mathjax: true
 title: Removing Space of files inside folders/subfolders in bulk
-#subtitle: Window
+description: In many cases, we need to remove space in the names of files saved inside a tree of folders/subfolders. We can use following CODE to do the job.
 date: 2019-10-10T23:30:45+08:00
 type: "post"
 #tags: [Window]
 #summary : "  "
 #image_webp: https://helpdeskgeek.com/wp-content/pictures/2019/02/notepad-script.png
-image: "https://helpdeskgeek.com/wp-content/pictures/2019/02/notepad-script.png"
+image: notepad-script.png
 categories:
   - ""
 tags:

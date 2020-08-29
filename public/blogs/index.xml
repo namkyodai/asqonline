@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lifestyle on ASQ Consulting Ltd</title>
+    <title>News and Articles on ASQ Consulting Ltd</title>
     <link>/blogs/</link>
-    <description>Recent content in Lifestyle on ASQ Consulting Ltd</description>
+    <description>Recent content in News and Articles on ASQ Consulting Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
@@ -53,7 +53,7 @@ In a large scale engineering project, Contractors shall have an excellent and FU
     </item>
     
     <item>
-      <title>Return on Investment (ROI) for Intervention of Pumps under uncertainties</title>
+      <title>Intervention of Pumps under uncertainties</title>
       <link>/blogs/2019-09-29-pump-efficiency/</link>
       <pubDate>Sun, 29 Sep 2019 23:30:45 +0800</pubDate>
       
@@ -73,42 +73,6 @@ What if our Client provides us with a number of poorly recorded databases with t
     </item>
     
     <item>
-      <title>Aliquam</title>
-      <link>/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/blogs/aliquam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tempus</title>
-      <link>/blogs/training/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>/blogs/training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magna</title>
-      <link>/blogs/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>/blogs/magna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
-    </item>
-    
-    <item>
       <title>Energy Audit</title>
       <link>/blogs/energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -116,26 +80,6 @@ What if our Client provides us with a number of poorly recorded databases with t
       <guid>/blogs/energy/</guid>
       <description>Energy Audit for Buildings To support our goal of sustainable outcomes for our Clients, we have developed solutions to optimize their energy usage providing a range of benefits to the building owner and occupants.
 The audits come with three different levels of comprehensiveness. Every building and building owner is different and is looking to achieve different objectives. For some it is essential for commercial viability, for others something they would like some expert inputs on before considering further.</description>
-    </item>
-    
-    <item>
-      <title>Reinforced Concrete (RC) Compressive Test and Cracking Prediction</title>
-      <link>/blogs/rcstructure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blogs/rcstructure/</guid>
-      <description>RC structures deteriorate overtime as their conditions and level of services are affected by various factors (e.g. loadings, temperature, working environments). Particularly, some typical RC structures in maritime settings (e.g. ports, jetties) need special attention and require regular auditing with tests to estimate deterioration process and to determine appropriate preventive intervention strategies.
-Our team utilizes a combination of Non-Destructive Tests (e.g. Rebound Hammer, Ultrasonic Pulse Velocity, Core Extraction and Compressive Strength Test, Chloride Penetration) for specific sites to collect data and then use frontier modelling technique (e.</description>
-    </item>
-    
-    <item>
-      <title>Road and Bridge Inspection</title>
-      <link>/blogs/roadbridge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blogs/roadbridge/</guid>
-      <description>Condition of road sections and bridge components deteriorate overtime due to environmental and temperature variation as well as volumes and characteristics of vehicles daily. Infrastructure managers are interested in capturing the conditions and in using the captured date to predict deterioration speed so as they can proactively allocate resources for executing preventive intervention programs.
-Our team is able and capable to provide Clients with walk-through inspection and using digital solutions and technologies to capture relevant road and bridge distresses and using either deterministic or probabilistic models to estimate deterioration speed.</description>
     </item>
     
   </channel>

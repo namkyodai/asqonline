@@ -5,7 +5,8 @@ title: "Technical Due Diligence"
 description: "Assisting Clients on strategic decisions on Acquisition, Occupation, Disposal, and Development of Properties through Due Diligence evaluation process."
 #type: "featured"
 # image: "images/featured-post/post-2.jpg"
-image: post-2.png
+image: pic02.jpg
+date: 2020-02-10T11:08:21+08:00
 ---
 
 We provide Technical Due Diligence (TDD) services that involve a process of systematic review, analysis, and discovery of the conditions of assets from various viewpoints such as architectural, constructional, structural, MEP, fire safety and external façade checking.
@@ -26,3 +27,5 @@ The benefits of having us to provide TDD services to you includes, but not limit
 -	Estimating a high level Cost Estimate for a Preventive Intervention Program
 -	Providing a level of security and protection for investors regarding acquisition or investment on assets;
 -	Providing a certain level of confident on asset pricing for allocation of risk or price negotiations.
+
+![](/img/whatwedo/pic05.jpg)

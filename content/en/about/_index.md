@@ -20,7 +20,7 @@ We believe that for societies to thrive, we must all hold ourselves accountable 
 
 
 # Our Story
-**ASQ** is a consulting company specialized in engineering asset management and data science. The company was founded in 2018 by Dr. Nam Le as a spin-off from ETH Zürich & Kyoto University & years of experience Nam worked for international engineering consulting firms.
+**ASQ** is a consulting team specialized in TDD, engineering asset management and data science. The team was established in 2016 as a spin-off from ETH Zürich & Kyoto University. We develop frameworks, models on deterioration and reliability as well as optimization to determination of optimal intervention strategies for engineering systems.
 
 <!-- # Our Market
 SMAT focuses exclusively on business in Vietnam and the Philippines. -->

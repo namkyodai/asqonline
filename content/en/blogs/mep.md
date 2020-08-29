@@ -8,8 +8,7 @@ authors: []
 #categories: [Asset Management, Plant Audit]
 date: 2020-02-11T11:08:22+08:00
 #summary : "  "
-image_webp: https://bwenergyservices.com/wp-content/uploads/2019/05/HydroTesting.jpg
-image: https://bwenergyservices.com/wp-content/uploads/2019/05/HydroTesting.jpg
+image: HydroTesting.jpg
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,6 +35,7 @@ slides: ""
 |:---:|:---:|
 
 Services include Visual Inspection, Desktop study on historical records, physical testing and measurement for Mechanical and Electrical assets (e.g. HAVC, transformers, GENSETs, Pumps, Chillers, Fire Protection and FDAS devices) of
+
   - Cleanrooms
   - Bio-chem facilities
   - Food and Medical facilities

@@ -22,6 +22,16 @@ The Client Manila Technical Venture., an affiliate company of Manila Water Inc. 
     </item>
     
     <item>
+      <title>Engineering Asset Management</title>
+      <link>/vi/whatwedo/am/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:22 +0800</pubDate>
+      
+      <guid>/vi/whatwedo/am/</guid>
+      <description>Asset Management is the optimal allocation of the scarce budget between the new arrangement of asset and rehabilitation, maintenance of the existing assets to maximize the value of the stock of assets and to realize the maximum outcomes for the stakeholders.
+ We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.</description>
+    </item>
+    
+    <item>
       <title>TDD and Asset Management for Hanjin Shipyard (Subic Bay)</title>
       <link>/vi/projects/2020-hanjin-shipyard/</link>
       <pubDate>Mon, 10 Feb 2020 11:08:22 +0800</pubDate>
@@ -30,6 +40,35 @@ The Client Manila Technical Venture., an affiliate company of Manila Water Inc. 
       <description>Clients A Global Capital Investment Firm (confidential)
 The Project Hanjin Shipyard is one of the biggest and largest heavy Shipyard in the world. It was constructed by Hanjin Heavy Industries and Construction Philippines (HHIC Phil). It was in operation from 2006 and has commissioned a number of large commercial ships and oil tankers for global Clients.
 Since 2018, HHIC Phil faced financial challenges and filed for bankruptcy. In 2020, the Shipyard has attracted a Global Capital Investment Firm, who wishes to take the ownership of the entire shipyard by executing an Distressed Investment.</description>
+    </item>
+    
+    <item>
+      <title>TDD cho mục đích mua bán và sát nhập (M&amp;A)</title>
+      <link>/vi/whatwedo/tdd/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:21 +0800</pubDate>
+      
+      <guid>/vi/whatwedo/tdd/</guid>
+      <description>We provide Technical Due Diligence (TDD) services that involve a process of systematic review, analysis, and discovery of the conditions of assets from various viewpoints such as architectural, constructional, structural, MEP, fire safety and external façade checking.
+The TDD services also consists of a review and analysis of cost estimation for short, medium, or long-term preventive intervention program. We utilize experience and knowledge of asset management in the context of TDD to provide optimal set of advices regarding future investment on the assets.</description>
+    </item>
+    
+    <item>
+      <title>Construction Industry Marketing</title>
+      <link>/vi/whatwedo/constructionmarket/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:20 +0800</pubDate>
+      
+      <guid>/vi/whatwedo/constructionmarket/</guid>
+      <description>We combine market analysis techniques with knowledge and experience in econometrics, operations research, statistics, and engineering to provide an advantageous approach toward determination of optimal capital investment strategies on acquisition of existing properties or development of new properties taking into consideration of local settings and global trends. Our rich historical database on cost and price of assets, materials, and labor in construction and infrastructure sectors enables to perform various types of quantitative analysis, comparative study, and econometrical modelling to capture the equilibrium of price and market behaviors as well as influencing factors on specific properties.</description>
+    </item>
+    
+    <item>
+      <title>Data Solutions and Analytics</title>
+      <link>/vi/whatwedo/datascience/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:19 +0800</pubDate>
+      
+      <guid>/vi/whatwedo/datascience/</guid>
+      <description>Time Series Data and Panel Data of Operations of Building and Engineering Systems such as a Water Treatment Plant, a Power Station, or a Pump Station, if being recorded and analyzed appropriately, will give engineers and managers a window of insightful pictures on
+ Efficiency Reliability and Stability Correlation of variables Bottlenecks Risk factors and impacts  By understanding those, optimal decisions can be made. The tasks on data solutions and analytics can also be linked to Asset Management and Auditing tasks using the power of statistical correlation and prediction capacity, which could potentially save significant cost for asset&#39;s owners.</description>
     </item>
     
     <item>
@@ -83,48 +122,12 @@ DNP Corporation is an investment holding company, operating in four key business
     </item>
     
     <item>
-      <title>Aliquam</title>
-      <link>/vi/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/vi/blogs/aliquam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tempus</title>
-      <link>/vi/blogs/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>/vi/blogs/tempus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Training</title>
       <link>/vi/whatwedo/training/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
       <guid>/vi/whatwedo/training/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Magna</title>
-      <link>/vi/blogs/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>/vi/blogs/magna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>/vi/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>/vi/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
     <item>
@@ -148,12 +151,13 @@ The team has been appointed by Bayer Philippines Incorporated to carry out struc
     </item>
     
     <item>
-      <title>Construction Industry Marketing</title>
-      <link>/vi/whatwedo/constructionmarket/</link>
+      <title>Cơ hội cho thị trường bất động sản công nghiệp thời Covid-19?</title>
+      <link>/vi/blogs/vlog01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vi/whatwedo/constructionmarket/</guid>
-      <description>This page is under construction. However, you can find our capability on this service from the PDF file in the link below</description>
+      <guid>/vi/blogs/vlog01/</guid>
+      <description>Theo dự báo, nhu cầu thuê đất ở các khu công nghiệp được dự báo tiếp tục tăng trong năm 2020, bởi vốn đầu tư nước ngoài vào Việt Nam đang tăng mạnh, trước làn sóng di chuyển các cơ sở sản xuất từ Trung Quốc sang các nước Đông Nam Á.
+ Mới đây, ông Troy Griffiths - Phó Tổng giám đốc Savills Việt Nam cho rằng Việt Nam là quốc gia đầu tiên công bố hết dịch SARS năm 2003 và sẽ tiếp tục thành công trong việc ngăn chặn dịch bệnh lần này.</description>
     </item>
     
     <item>
@@ -166,16 +170,6 @@ The team has been appointed by Bayer Philippines Incorporated to carry out struc
     </item>
     
     <item>
-      <title>Data Solutions and Analytics</title>
-      <link>/vi/whatwedo/datascience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/vi/whatwedo/datascience/</guid>
-      <description>Time Series Data and Panel Data of Operations of Building and Engineering Systems such as a Water Treatment Plant, a Power Station, or a Pump Station, if being recorded and analyzed appropriately, will give engineers and managers a window of insightful pictures on
- Efficiency Reliability and Stability Correlation of variables Bottlenecks Risk factors and impacts  By understanding those, optimal decisions can be made. The tasks on data solutions and analytics can also be linked to Asset Management and Auditing tasks using the power of statistical correlation and prediction capacity, which could potentially save significant cost for asset&#39;s owners.</description>
-    </item>
-    
-    <item>
       <title>Digital Monitoring</title>
       <link>/vi/business/digitalmornitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -185,32 +179,12 @@ The team has been appointed by Bayer Philippines Incorporated to carry out struc
     </item>
     
     <item>
-      <title>Engineering Asset Management</title>
-      <link>/vi/whatwedo/am/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/vi/whatwedo/am/</guid>
-      <description>Asset Management is the optimal allocation of the scarce budget between the new arrangement of asset and rehabilitation, maintenance of the existing assets to maximize the value of the stock of assets and to realize the maximum outcomes for the stakeholders.
- We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.</description>
-    </item>
-    
-    <item>
       <title>Traffic Impact Assessment</title>
       <link>/vi/business/transportation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/vi/business/transportation/</guid>
       <description>We conduct TIA for development project and help Clients to acquire regulatory permits. Our solutions encompases also workzone optimization on road network to minimize negative impacts</description>
-    </item>
-    
-    <item>
-      <title>Đánh giá bất động sản và các hệ thống kĩ thuật công trình cho mục đích mua bán và sát nhập (M&amp;A)</title>
-      <link>/vi/whatwedo/tdd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/vi/whatwedo/tdd/</guid>
-      <description>We provide Technical Due Diligence (TDD) services that involve a process of systematic review, analysis, and discovery of the conditions of assets from various viewpoints such as architectural, constructional, structural, MEP, fire safety and external façade checking.
-The TDD services also consists of a review and analysis of cost estimation for short, medium, or long-term preventive intervention program. We utilize experience and knowledge of asset management in the context of TDD to provide optimal set of advices regarding future investment on the assets.</description>
     </item>
     
   </channel>

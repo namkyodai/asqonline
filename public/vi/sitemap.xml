@@ -38,6 +38,21 @@
   </url>
   
   <url>
+    <loc>/vi/whatwedo/am/</loc>
+    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/am/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/am/"
+                />
+  </url>
+  
+  <url>
     <loc>/vi/projects/</loc>
     <lastmod>2020-02-10T11:08:22+08:00</lastmod>
     <xhtml:link
@@ -64,6 +79,51 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/projects/2020-hanjin-shipyard/"
+                />
+  </url>
+  
+  <url>
+    <loc>/vi/whatwedo/tdd/</loc>
+    <lastmod>2020-02-10T11:08:21+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/tdd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/tdd/"
+                />
+  </url>
+  
+  <url>
+    <loc>/vi/whatwedo/constructionmarket/</loc>
+    <lastmod>2020-02-10T11:08:20+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/constructionmarket/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/constructionmarket/"
+                />
+  </url>
+  
+  <url>
+    <loc>/vi/whatwedo/datascience/</loc>
+    <lastmod>2020-02-10T11:08:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/datascience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/datascience/"
                 />
   </url>
   
@@ -173,37 +233,17 @@
   </url>
   
   <url>
-    <loc>/vi/blogs/aliquam/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <loc>/vi/whatwedo/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blogs/aliquam/"
+                href="/whatwedo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/blogs/aliquam/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/categories/"
+                href="/vi/whatwedo/"
                 />
   </url>
   
@@ -223,32 +263,22 @@
   </url>
   
   <url>
-    <loc>/vi/whatwedo/</loc>
-    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/blogs/tempus/</loc>
+    <loc>/vi/categories/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blogs/training/"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/blogs/tempus/"
+                href="/vi/categories/"
                 />
   </url>
   
@@ -264,36 +294,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/training/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/blogs/magna/</loc>
-    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blogs/magna/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/blogs/magna/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/blogs/ipsum/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blogs/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/blogs/ipsum/"
                 />
   </url>
   
@@ -341,17 +341,7 @@
   </url>
   
   <url>
-    <loc>/vi/whatwedo/constructionmarket/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/constructionmarket/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/constructionmarket/"
-                />
+    <loc>/vi/blogs/vlog01/</loc>
   </url>
   
   <url>
@@ -369,20 +359,6 @@
   </url>
   
   <url>
-    <loc>/vi/whatwedo/datascience/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/datascience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/datascience/"
-                />
-  </url>
-  
-  <url>
     <loc>/vi/business/digitalmornitoring/</loc>
     <xhtml:link
                 rel="alternate"
@@ -393,20 +369,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/business/digitalmornitoring/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/am/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/am/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/am/"
                 />
   </url>
   
@@ -440,20 +402,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/business/transportation/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/tdd/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/tdd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/tdd/"
                 />
   </url>
   
