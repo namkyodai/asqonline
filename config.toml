@@ -84,7 +84,12 @@ disqusShortname = ""
        url = "blogs/"
 
 
-    [[params.navigation.links]]
+       [[params.navigation.links]]
+         name = "Apps"
+        url = "apps/"
+
+
+       [[params.navigation.links]]
         name = "Our Expertise"
         url = "whatwedo"
 
@@ -301,7 +306,9 @@ disqusShortname = ""
             name = "Tin Tức"
             url = "vi/blogs"
 
-
+            [[languages.vi.params.navigation.links]]
+              name = "Apps"
+             url = "apps/"
           [[languages.vi.params.navigation.links]]
               name = "Dịch Vụ"
               url = "vi/whatwedo"

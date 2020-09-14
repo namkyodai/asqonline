@@ -6,18 +6,27 @@
     <description>Recent content in Apps on ASQ - Your Engineering Consultant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2019 11:08:22 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
 	<atom:link href="/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Weibull Analysis - An example</title>
+      <title>Warehouse Fitout Cost</title>
+      <link>/apps/fitoutcost/</link>
+      <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
+      
+      <guid>/apps/fitoutcost/</guid>
+      <description>Open the Apps</description>
+    </item>
+    
+    <item>
+      <title>Weibull Models</title>
       <link>/apps/weibulllcc/</link>
       <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
       
       <guid>/apps/weibulllcc/</guid>
-      <description>Determination of Optimal Intervention Strategy for Pumps based on Weibull Analysis</description>
+      <description>Open the Apps</description>
     </item>
     
   </channel>

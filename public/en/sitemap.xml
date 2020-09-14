@@ -88,18 +88,8 @@
   </url>
   
   <url>
-    <loc>/apps/</loc>
+    <loc>/apps/fitoutcost/</loc>
     <lastmod>2019-10-19T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/apps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/apps/"
-                />
   </url>
   
   <url>
@@ -194,6 +184,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/apps/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/apps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/apps/"
                 />
   </url>
   

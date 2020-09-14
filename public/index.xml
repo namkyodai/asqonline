@@ -61,12 +61,21 @@ The TDD services also consists of a review and analysis of cost estimation for s
     </item>
     
     <item>
-      <title>Weibull Analysis - An example</title>
+      <title>Warehouse Fitout Cost</title>
+      <link>/apps/fitoutcost/</link>
+      <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
+      
+      <guid>/apps/fitoutcost/</guid>
+      <description>Open the Apps</description>
+    </item>
+    
+    <item>
+      <title>Weibull Models</title>
       <link>/apps/weibulllcc/</link>
       <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
       
       <guid>/apps/weibulllcc/</guid>
-      <description>Determination of Optimal Intervention Strategy for Pumps based on Weibull Analysis</description>
+      <description>Open the Apps</description>
     </item>
     
     <item>

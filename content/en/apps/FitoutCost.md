@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Weibull Models"
-description: "Determination of Optimal Intervention Strategy for Pumps based on Weibull Analysis"
+title: "Warehouse Fitout Cost"
+description: "Sensitivity Analysis on Fitout Cost vs numbers of Tenants"
 authors: [Nam Le]
 #tags: [Project Management, Feasibility Study, Financial Model, Power Stations]
 #categories: [Project Management, Feasibility Study]
 date: 2019-10-19T11:08:22+08:00
-image: weibullplot.png
+image: warehousefitout.jpg
 ---
 
-[Open the Apps](https://halloasq.shinyapps.io/WeibullLCC/)
+[Open the Apps](https://halloasq.shinyapps.io/WarehouseFitoutCost/)
