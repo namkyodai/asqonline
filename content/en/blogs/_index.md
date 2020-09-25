@@ -1,4 +1,5 @@
 ---
+# layout: "asqlayout1"
 title: "News and Articles"
 slug: "blogs"
 image: pic02.jpg

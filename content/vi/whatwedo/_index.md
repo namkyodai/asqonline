@@ -1,4 +1,5 @@
 ---
+# layout: "asqlayout1"
 title: "Dịch vụ"
 slug: "blogs"
 image: banner.jpg

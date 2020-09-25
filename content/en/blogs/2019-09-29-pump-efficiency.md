@@ -1,5 +1,6 @@
 ---
 #layout: post
+layout: "asqlayout1"
 mathjax: true
 title: Intervention of Pumps under uncertainties
 description: This post describes a generic approach on the computation of Net Present Value (NPV) and Life Cycle Cost estimation (LCC) for Preventive Intervention (PI) on pumps (e.g. centrifugal pumps) when decision makers are uncertain on, or do not have a rich set of data on failure of pump components.

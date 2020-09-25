@@ -1,4 +1,5 @@
 ---
+layout: "asqlayout1"
 title: "Engineering Asset Management"
 #date: 2019-05-14T14:46:10+06:00
 description: "We apply state-of-the art Asset Management concept and practice to help Clients to standalize operation and mantainance process for sustainable growth"

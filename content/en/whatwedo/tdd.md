@@ -1,5 +1,6 @@
 ---
-layout: "single"
+# layout: "single"
+layout: "asqlayout1"
 title: "Technical Due Diligence"
 #date: 2019-05-14T14:46:10+06:00
 description: "Assisting Clients on strategic decisions on Acquisition, Occupation, Disposal, and Development of Properties through Due Diligence evaluation process."

@@ -1,4 +1,5 @@
 ---
+layout: "asqlayout1"
 title: "Construction Industry Marketing"
 #date: 2019-05-14T14:46:10+06:00
 description: "We combine market analysis techniques with knowledge and experience in econometrics, operations research, statistics, and engineering to provide an advantageous approach toward determination of optimal capital investment strategies on acquisition of existing properties or development of new properties taking into consideration of local settings and global trends. Our rich historical database on cost and price of assets, materials, and labor in construction and infrastructure sectors enables to perform various types of quantitative analysis, comparative study, and econometrical modelling to capture the equilibrium of price and market behaviors as well as influencing factors on specific properties. "

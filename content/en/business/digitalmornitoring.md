@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+layout: "asqlayout1"
 title: "Digital Monitoring"
 summary: "Utilizing digital platform and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems"
 authors: []

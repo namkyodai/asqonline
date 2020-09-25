@@ -1,6 +1,7 @@
 ---
 #layout: post
 #mathjax: true
+layout: "asqlayout1"
 title: Removing Space of files inside folders/subfolders in bulk
 description: In many cases, we need to remove space in the names of files saved inside a tree of folders/subfolders. We can use following CODE to do the job.
 date: 2019-10-10T23:30:45+08:00

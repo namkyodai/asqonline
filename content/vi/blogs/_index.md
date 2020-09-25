@@ -1,4 +1,5 @@
 ---
+# layout: "asqlayout1"
 title: "Tin tức và bài đăng"
 slug: "blogs"
 image: pic02.jpg

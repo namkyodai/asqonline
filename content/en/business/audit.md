@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+layout: "asqlayout1"
 title: "Building and Plant Audits"
 summary: "We conduct inspection and testing for buildings and engineering systems to capture assets reliability & efficiency and compliance to applied standards"
 authors: []

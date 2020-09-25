@@ -1827,9 +1827,14 @@
 		margin-bottom: 2em;
 	}
 
+	/* header.major {
+		width: auto;
+		margin-bottom: 2em;
+	} */
+
 		header.major > :first-child {
 			margin-bottom: 0;
-			width: calc(100% + 0.5em);
+				width: auto;
 		}
 
 			header.major > :first-child:after {

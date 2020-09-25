@@ -1,5 +1,6 @@
 ---
-layout: single
+#layout: single
+layout: "asqlayout1"
 title: Excel worksheets combination
 description: Combining multiple excel worksheets and multiple csv/excel files in a dataframe? What if our Client provides us with a number of poorly recorded databases with thousands of records in different Excel formats? not only that, within each Excel file, there are hundreds of worksheets with in-homogeneous structures –F.. Excel ^_^, but that is the reality, particularly when we have to work with Clients whose business are not much involved with TECH.
 #image_webp: images/blog/blog-post-3.webp

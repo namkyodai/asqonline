@@ -1,4 +1,5 @@
 ---
+layout: "asqlayout1"
 title: "Training"
 description: "We organize courses on data analytics and reliability modelling for determination of optimal intervention strategies for water ultilities and infrastructure systems."
 slug: "Training"
