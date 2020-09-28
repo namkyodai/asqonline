@@ -154,7 +154,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Technical Due Diligence"
-      subtitle = "We conduct Due Diligence studies on building systems (office, retail, commercial and shopping malls), Infrastructure systems (Bridges, Roads, Water Utilities), and industrial sites (logistic centers, warehouses, factories) using innovative digital tools and by experienced engineers to help Capital Investors arriving at optimal Merging and Acquisition (M&A) decisions"
+      subtitle = "We conduct Due Diligence studies on building systems, Infrastructure systems, and industrial sites using innovative digital tools and by experienced engineers to help Capital Investors arriving at optimal Merging and Acquisition decisions"
       image = "/banner/pic02.jpg"
       url = "whatwedo/tdd"
 
@@ -373,16 +373,16 @@ disqusShortname = ""
 
 
           [[languages.vi.params.tiles.showcase]]
-            title = "Đánh giá bất động sản và các hệ thống kĩ thuật cho mục đích mua bán sát nhập M&A"
-            subtitle = "ASQ có đội ngũ nghiên cứu và kĩ sư có kinh nghiệm trong việc đánh giá kĩ thuật và định giá các công trình xây dựng và tài sản của công trình. Việc đánh giá được tiến hành trên nền tảng công nghệ và thống kê học sẽ giúp nhà đầu tư đưa ra được các quyết định chiến lược trong việc mua và sát nhập"
+            title = "Đánh giá các hệ thống kĩ thuật công trình"
+            subtitle = "ASQ giúp chủ đầu tư đưa ra được các quyết định chiến lược trong việc mua và sát nhập qua việc khảo sát và đánh giá và thẩm tra các hệ thống kĩ thuật như tòa nhà, công trình công nghiệp và nhà máy"
             url = "vi/whatwedo/tdd"
 
             image = "/banner/pic02.jpg"
             # url = "blogs/aliquam"
 
           [[languages.vi.params.tiles.showcase]]
-            title = "Tư vấn quản lý cơ sở hạ tầng, nhà cửa, nhà máy và khu công nghiệp"
-            subtitle = "Giúp doanh nghiệp và các tổ chức quản lý tốt tài sản thông qua việc phát triển các kế hoạch chiến lược và xây dựng các mô hình toán tối ưu để đưa ra các biện pháp bảo hành và bảo trì cho từng thiết bị và tài sản nhằm đảm bảo công việc kinh doanh và vận hành của doanh nghiệp được bền vững lâu dài"
+            title = "Quản lý tài sản công trình và thiết bị"
+            subtitle = "ASQ giúp doanh nghiệp và các tổ chức quản lý tốt tài sản thông qua việc phát triển các kế hoạch chiến lược và xây dựng các mô hình toán tối ưu để đưa ra các biện pháp bảo hành và bảo trì hợp lý và tối ưu"
             url = "whatwedo/am"
             image = "/banner/pic03.jpg"
             # url = "blogs/tempus"

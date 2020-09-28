@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="338.09963"
-     inkscape:cy="801.19997"
+     inkscape:cx="363.35669"
+     inkscape:cy="882.01217"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="1609"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      inkscape:snap-grids="false" />
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,5 +104,12 @@
            y="32.519684"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#004c99;fill-opacity:0.81568627" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.83376122px;line-height:213.31460571px;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#004c99;fill-opacity:0.81568627"
-         id="flowPara2552-8">and Quantitative Analysis</flowPara></flowRoot>  </g>
+         id="flowPara2552-8">and Quantitative Analysis</flowPara></flowRoot>    <rect
+       style="opacity:0.069;fill:#25ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4531"
+       width="91.673447"
+       height="91.673447"
+       x="58.264759"
+       y="15.832457" />
+  </g>
 </svg>
