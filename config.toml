@@ -186,7 +186,7 @@ disqusShortname = ""
       title = "Brochure "
       subtitle = "Download ASQ's Brochure in PDF format"
       image = "/banner/collaboration.png"
-      url = "about/ASQbrochure-en.pdf"
+      url = "about/ASQ-brochure-English.pdf"
     # You can make more showcases by copy and pasting the code above
     # You can make more showcases by copy and pasting the code above
 
@@ -343,7 +343,7 @@ disqusShortname = ""
 
           [[languages.vi.params.navigation.button1]]
             name = "日本語"
-            url = "/jp"
+            url = "/jp/about/ASQ-brochure-Nihongo.pdf"
           # Button Style 2
   #        [[languages.vi.params.navigation.button2]]
   #          name = "Log In"

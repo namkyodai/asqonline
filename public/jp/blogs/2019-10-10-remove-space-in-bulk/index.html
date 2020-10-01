@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="ASQ is a spin-off start up Team originated from ETH Zurich and Kyoto University specialized in engineering asset management and data analytics and data solution for engineering systems">
+	<meta name="author" content="ASQ - Your Engineering Consultant">
+	<meta name="generator" content="Hugo 0.60.0" />
+	<title>Removing Space of files inside folders/subfolders in bulk &middot; ASQコンサルティング</title>
+	<!-- Stylesheets -->
+	
+	<link rel="stylesheet" href="/css/main.css"/>
+	
+	
+	
+
+	
+
+	<!-- Custom Fonts -->
+	<link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="js/ie/html5shiv.js"></script>
+	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
+	<![endif]-->
+</head>
+
+    <body>
+
+    <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Header -->
+    <header id="header" class="alt">
+        <a href="/" class="logo"><strong>ASQ</strong> <span>Your Engineering Consultant</span></a>
+
+        <nav>
+
+            <a href="#menu">Menu</a>
+        </nav>
+
+
+    </header>
+
+
+
+<!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            
+                <li><a href="/">Home</a></li>
+            
+                <li><a href="/blogs/">News</a></li>
+            
+                <li><a href="/apps/">Apps</a></li>
+            
+                <li><a href="/whatwedo">Our Expertise</a></li>
+            
+
+        </ul>
+        <ul class="actions vertical">
+            
+                <li><a href="/vi" class="button special fit">Tiếng Việt</a></li>
+            
+                <li><a href="/jp" class="button special fit">日本語</a></li>
+            
+            
+        </ul>
+    </nav>
+
+
+        <!-- Main -->
+            <div id="main" class="alt">
+
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="content">
+                                <h1>Removing Space of files inside folders/subfolders in bulk </h1>
+                            </header>
+                            
+                                <span class="image main"><img src="/img/blogs/notepad-script.png" alt="" /></span>
+                            
+                            <p>In many cases, we need to remove space in the names of files saved inside a tree of folders/subfolders. We can use following CODE to do the job.</p>
+<pre><code>:renameNoSpace [/R]
+@echo off
+setlocal disableDelayedExpansion
+if /i &quot;%~1&quot;==&quot;/R&quot; (
+set &quot;forOption=%~1 %2&quot;
+set &quot;inPath=&quot;
+) else (
+set &quot;forOption=&quot;
+if &quot;%~1&quot; neq &quot;&quot; (set &quot;inPath=%~1\&quot;) else set &quot;inPath=&quot;
+)
+for %forOption% %%F in (&quot;%inPath%* *&quot;) do (
+if /i &quot;%~f0&quot; neq &quot;%%~fF&quot; (
+set &quot;folder=%%~dpF&quot;
+set &quot;file=%%~nxF&quot;
+setlocal enableDelayedExpansion
+echo ren &quot;!folder!!file!&quot; &quot;!file: =!&quot;
+ren &quot;!folder!!file!&quot; &quot;!file: =!&quot;
+endlocal
+)
+)
+</code></pre><p>Assume the script is called renameNoSpace.bat</p>
+<p>Options to change are</p>
+<pre><code>renameNoSpace : (no arguments) Renames files in the current directory
+
+renameNoSpace /R : Renames files in the folder tree rooted at the current directory
+
+renameNoSpace myFolder : Renames files in the “myFolder” directory found in the current directory.
+
+renameNoSpace &quot;c:\my folder\&quot; : Renames files in the specified path. Quotes are used because path contains a space.
+
+renameNoSpace /R c:\ : Renames all files on the C: drive.
+</code></pre><p>We paste renameNoSpace.bat to targetted folder/subfolders and run the file in the console.</p>
+
+                        </div>
+                    </section>
+            <!-- Disqus Inject -->
+                
+            </div>
+
+        <!-- Footer -->
+            
+                <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="icons">
+                
+                    <li><a href="https://www.github.com" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+                
+                    <li><a href="https://www.linkedin.com" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+                
+            </ul>
+            <ul class="copyright">
+                <li>&copy; ASQ - Your Engineering Consultant</li>
+                
+            </ul>
+        </div>
+    </footer>
+
+            
+        </div>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+    <!-- jQuery -->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.scrolly.min.js"></script>
+    <script src="/js/jquery.scrollex.min.js"></script>
+    <script src="/js/skel.min.js"></script>
+    <script src="/js/util.js"></script>
+
+    
+
+    <!-- Main JS -->
+    <script src="/js/main.js"></script>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-20712415-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    
+
+    </body>
+</html>

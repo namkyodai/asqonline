@@ -6,9 +6,183 @@
     <description>Recent content on ASQコンサルティング</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2020 11:08:22 +0800</lastBuildDate>
     
 	<atom:link href="/jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mechanical &amp; Electrical Audits </title>
+      <link>/jp/blogs/mep/</link>
+      <pubDate>Tue, 11 Feb 2020 11:08:22 +0800</pubDate>
+      
+      <guid>/jp/blogs/mep/</guid>
+      <description>Services include Visual Inspection, Desktop study on historical records, physical testing and measurement for Mechanical and Electrical assets (e.g. HAVC, transformers, GENSETs, Pumps, Chillers, Fire Protection and FDAS devices) of
+ Cleanrooms Bio-chem facilities Food and Medical facilities Oil &amp;amp; Gas stations Chemical and Process Plants and Chillers systems Water Distribution Networks and Utilities (e.g. Water Treatment Plants, Waste Water Treatment Plants, Pump Stations and Reservoirs, Pipelines) Retail and Shopping Malls Commercial, BPOs, Real Estate properties  Mechanical Audit Qualitative and Operational Analysis Failure Mode and Effects Analysis (FMEA) will be implemented for the purpose of qualitative and operational analysis.</description>
+    </item>
+    
+    <item>
+      <title>Engineering Asset Management</title>
+      <link>/jp/whatwedo/am/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:22 +0800</pubDate>
+      
+      <guid>/jp/whatwedo/am/</guid>
+      <description>Asset Management is the optimal allocation of the scarce budget between the new arrangement of asset and rehabilitation, maintenance of the existing assets to maximize the value of the stock of assets and to realize the maximum outcomes for the stakeholders.
+ We are capable of providing asset management services for various types of engineering and infrastructure systems such as water and waste water utilities (Water Treatment Plants, Pump Stations, and Pipeline), mechanical and electrical assets of industrial plants, bridge and pavement systems, and building assets.</description>
+    </item>
+    
+    <item>
+      <title>Technical Due Diligence</title>
+      <link>/jp/whatwedo/tdd/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:21 +0800</pubDate>
+      
+      <guid>/jp/whatwedo/tdd/</guid>
+      <description>We provide Technical Due Diligence (TDD) services that involve a process of systematic review, analysis, and discovery of the conditions of assets from various viewpoints such as architectural, constructional, structural, MEP, fire safety and external façade checking.
+The TDD services also consists of a review and analysis of cost estimation for short, medium, or long-term preventive intervention program. We utilize experience and knowledge of asset management in the context of TDD to provide optimal set of advices regarding future investment on the assets.</description>
+    </item>
+    
+    <item>
+      <title>Construction Industry Marketing</title>
+      <link>/jp/whatwedo/constructionmarket/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:20 +0800</pubDate>
+      
+      <guid>/jp/whatwedo/constructionmarket/</guid>
+      <description>We combine market analysis techniques with knowledge and experience in econometrics, operations research, statistics, and engineering to provide an advantageous approach toward determination of optimal capital investment strategies on acquisition of existing properties or development of new properties taking into consideration of local settings and global trends. Our rich historical database on cost and price of assets, materials, and labor in construction and infrastructure sectors enables to perform various types of quantitative analysis, comparative study, and econometrical modelling to capture the equilibrium of price and market behaviors as well as influencing factors on specific properties.</description>
+    </item>
+    
+    <item>
+      <title>Data Solutions and Analytics</title>
+      <link>/jp/whatwedo/datascience/</link>
+      <pubDate>Mon, 10 Feb 2020 11:08:19 +0800</pubDate>
+      
+      <guid>/jp/whatwedo/datascience/</guid>
+      <description>Time Series Data and Panel Data of Operations of Building and Engineering Systems such as a Water Treatment Plant, a Power Station, or a Pump Station, if being recorded and analyzed appropriately, will give engineers and managers a window of insightful pictures on
+ Efficiency Reliability and Stability Correlation of variables Bottlenecks Risk factors and impacts  By understanding those, optimal decisions can be made. The tasks on data solutions and analytics can also be linked to Asset Management and Auditing tasks using the power of statistical correlation and prediction capacity, which could potentially save significant cost for asset&#39;s owners.</description>
+    </item>
+    
+    <item>
+      <title>Warehouse Fitout Cost</title>
+      <link>/jp/apps/fitoutcost/</link>
+      <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
+      
+      <guid>/jp/apps/fitoutcost/</guid>
+      <description>Open the Apps</description>
+    </item>
+    
+    <item>
+      <title>Weibull Models</title>
+      <link>/jp/apps/weibulllcc/</link>
+      <pubDate>Sat, 19 Oct 2019 11:08:22 +0800</pubDate>
+      
+      <guid>/jp/apps/weibulllcc/</guid>
+      <description>Open the Apps</description>
+    </item>
+    
+    <item>
+      <title>Fuel Efficiency - Regression Analysis</title>
+      <link>/jp/blogs/2019-10-10-fuel-efficiency/</link>
+      <pubDate>Thu, 10 Oct 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-10-10-fuel-efficiency/</guid>
+      <description>This example shows a very simple regression analysis using fuel data of 38 cars. Code is copied from the book “Data Mining and Business Analytics with R” with minor modification on the graphs.
+There are 2 learning points to be remembered with this example.
+Leaps package with regsubsets fuction. Regsubsets function allows to perform regression on subsets of data, particularly useful to compare across model’s predictors to understand the fit of the model.</description>
+    </item>
+    
+    <item>
+      <title>Removing Space of files inside folders/subfolders in bulk</title>
+      <link>/jp/blogs/2019-10-10-remove-space-in-bulk/</link>
+      <pubDate>Thu, 10 Oct 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-10-10-remove-space-in-bulk/</guid>
+      <description>In many cases, we need to remove space in the names of files saved inside a tree of folders/subfolders. We can use following CODE to do the job.
+:renameNoSpace [/R]@echo offsetlocal disableDelayedExpansionif /i &amp;quot;%~1&amp;quot;==&amp;quot;/R&amp;quot; (set &amp;quot;forOption=%~1 %2&amp;quot;set &amp;quot;inPath=&amp;quot;) else (set &amp;quot;forOption=&amp;quot;if &amp;quot;%~1&amp;quot; neq &amp;quot;&amp;quot; (set &amp;quot;inPath=%~1\&amp;quot;) else set &amp;quot;inPath=&amp;quot;)for %forOption% %%F in (&amp;quot;%inPath%* *&amp;quot;) do (if /i &amp;quot;%~f0&amp;quot; neq &amp;quot;%%~fF&amp;quot; (set &amp;quot;folder=%%~dpF&amp;quot;set &amp;quot;file=%%~nxF&amp;quot;setlocal enableDelayedExpansionecho ren &amp;quot;!</description>
+    </item>
+    
+    <item>
+      <title>Earned Value Management</title>
+      <link>/jp/blogs/2019-10-07-evm/</link>
+      <pubDate>Mon, 07 Oct 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-10-07-evm/</guid>
+      <description>Earned Value Management (EVM) is a widely used method, if not to say, a imperative method in project management. Without the EVM, the Project Managers and stakeholders (PM) cannot track and monitor the Progress and Schedule, cannot understand the causes of problems and delays.
+In a large scale engineering project, Contractors shall have an excellent and FULL TIME experienced Planners who can confidently perform EVM analysis and report to the PM and the project team weekly and monthly.</description>
+    </item>
+    
+    <item>
+      <title>Intervention of Pumps under uncertainties</title>
+      <link>/jp/blogs/2019-09-29-pump-efficiency/</link>
+      <pubDate>Sun, 29 Sep 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-09-29-pump-efficiency/</guid>
+      <description>This post describes a generic approach on the computation of Net Present Value (NPV) and Life Cycle Cost estimation (LCC) for Preventive Intervention (PI) on pumps (e.g. centrifugal pumps) when decision makers are uncertain on, or do not have a rich set of data on failure of pump components.
+Ideally, failure data on pump components should be recorded in time-series fashion that allows analyst to investigate on the frequency of failure and come up with a prediction.</description>
+    </item>
+    
+    <item>
+      <title>Excel worksheets combination</title>
+      <link>/jp/blogs/2019-09-15-excel-combine/</link>
+      <pubDate>Sun, 15 Sep 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-09-15-excel-combine/</guid>
+      <description>What if our Client provides us with a number of poorly recorded databases with thousands of records in different Excel formats? not only that, within each Excel file, there are hundreds of worksheets with in-homogeneous structures –F.. Excel ^_^, but that is the reality, particularly when we have to work with Clients whose business are not much involved with TECH.
+What if our Client provides us with a number of poorly recorded databases with thousands of records in different Excel formats?</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>/jp/whatwedo/training/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>/jp/whatwedo/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building and Plant Audits</title>
+      <link>/jp/business/audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/business/audit/</guid>
+      <description>We conduct inspection and testing for buildings and engineering systems to capture assets reliability &amp;amp; efficiency and compliance to applied standards</description>
+    </item>
+    
+    <item>
+      <title>Data Solutions and Analytics</title>
+      <link>/jp/business/datasolutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/business/datasolutions/</guid>
+      <description>Using time series and panel dataset on engineering&#39;s parameters and variables of system, we can detect trends, establish correlation, and perform inference analysis that will support Clients on arriving at optimal business solutions</description>
+    </item>
+    
+    <item>
+      <title>Digital Monitoring</title>
+      <link>/jp/business/digitalmornitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/business/digitalmornitoring/</guid>
+      <description>Utilizing digital platform and frontier development on monitoring technique for engineering systems such as the use of drone for carrying out inspections on road sections, bridges, and other engineering systems</description>
+    </item>
+    
+    <item>
+      <title>Energy Audit</title>
+      <link>/jp/blogs/energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/blogs/energy/</guid>
+      <description>Energy Audit for Buildings To support our goal of sustainable outcomes for our Clients, we have developed solutions to optimize their energy usage providing a range of benefits to the building owner and occupants.
+The audits come with three different levels of comprehensiveness. Every building and building owner is different and is looking to achieve different objectives. For some it is essential for commercial viability, for others something they would like some expert inputs on before considering further.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Impact Assessment</title>
+      <link>/jp/business/transportation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/business/transportation/</guid>
+      <description>We conduct TIA for development project and help Clients to acquire regulatory permits. Our solutions encompases also workzone optimization on road network to minimize negative impacts</description>
+    </item>
     
   </channel>
 </rss>

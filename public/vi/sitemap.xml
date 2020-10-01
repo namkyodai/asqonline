@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/am/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/am/"
                 />
@@ -47,6 +52,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/tdd/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/tdd/"
                 />
@@ -59,6 +69,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/whatwedo/constructionmarket/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/constructionmarket/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,6 +92,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/datascience/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/datascience/"
                 />
@@ -89,6 +109,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/apps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/apps/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -107,6 +132,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/apps/weibulllcc/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/apps/weibulllcc/"
                 />
@@ -119,6 +149,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -137,6 +172,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/"
                 />
@@ -149,6 +189,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -187,6 +232,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/training/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/training/"
                 />
@@ -201,6 +251,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/business/audit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/business/audit/"
                 />
@@ -212,6 +267,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/business/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,6 +293,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/business/datasolutions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vi"
                 href="/vi/business/datasolutions/"
                 />
@@ -244,6 +309,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/business/digitalmornitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/business/digitalmornitoring/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -277,6 +347,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/business/transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/business/transportation/"
                 />
     <xhtml:link
                 rel="alternate"

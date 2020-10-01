@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News and Articles on ASQコンサルティング</title>
+    <link>/jp/blogs/</link>
+    <description>Recent content in News and Articles on ASQコンサルティング</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="/jp/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mechanical &amp; Electrical Audits </title>
+      <link>/jp/blogs/mep/</link>
+      <pubDate>Tue, 11 Feb 2020 11:08:22 +0800</pubDate>
+      
+      <guid>/jp/blogs/mep/</guid>
+      <description>Services include Visual Inspection, Desktop study on historical records, physical testing and measurement for Mechanical and Electrical assets (e.g. HAVC, transformers, GENSETs, Pumps, Chillers, Fire Protection and FDAS devices) of
+ Cleanrooms Bio-chem facilities Food and Medical facilities Oil &amp;amp; Gas stations Chemical and Process Plants and Chillers systems Water Distribution Networks and Utilities (e.g. Water Treatment Plants, Waste Water Treatment Plants, Pump Stations and Reservoirs, Pipelines) Retail and Shopping Malls Commercial, BPOs, Real Estate properties  Mechanical Audit Qualitative and Operational Analysis Failure Mode and Effects Analysis (FMEA) will be implemented for the purpose of qualitative and operational analysis.</description>
+    </item>
+    
+    <item>
+      <title>Fuel Efficiency - Regression Analysis</title>
+      <link>/jp/blogs/2019-10-10-fuel-efficiency/</link>
+      <pubDate>Thu, 10 Oct 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-10-10-fuel-efficiency/</guid>
+      <description>This example shows a very simple regression analysis using fuel data of 38 cars. Code is copied from the book “Data Mining and Business Analytics with R” with minor modification on the graphs.
+There are 2 learning points to be remembered with this example.
+Leaps package with regsubsets fuction. Regsubsets function allows to perform regression on subsets of data, particularly useful to compare across model’s predictors to understand the fit of the model.</description>
+    </item>
+    
+    <item>
+      <title>Removing Space of files inside folders/subfolders in bulk</title>
+      <link>/jp/blogs/2019-10-10-remove-space-in-bulk/</link>
+      <pubDate>Thu, 10 Oct 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-10-10-remove-space-in-bulk/</guid>
+      <description>In many cases, we need to remove space in the names of files saved inside a tree of folders/subfolders. We can use following CODE to do the job.
+:renameNoSpace [/R]@echo offsetlocal disableDelayedExpansionif /i &amp;quot;%~1&amp;quot;==&amp;quot;/R&amp;quot; (set &amp;quot;forOption=%~1 %2&amp;quot;set &amp;quot;inPath=&amp;quot;) else (set &amp;quot;forOption=&amp;quot;if &amp;quot;%~1&amp;quot; neq &amp;quot;&amp;quot; (set &amp;quot;inPath=%~1\&amp;quot;) else set &amp;quot;inPath=&amp;quot;)for %forOption% %%F in (&amp;quot;%inPath%* *&amp;quot;) do (if /i &amp;quot;%~f0&amp;quot; neq &amp;quot;%%~fF&amp;quot; (set &amp;quot;folder=%%~dpF&amp;quot;set &amp;quot;file=%%~nxF&amp;quot;setlocal enableDelayedExpansionecho ren &amp;quot;!</description>
+    </item>
+    
+    <item>
+      <title>Earned Value Management</title>
+      <link>/jp/blogs/2019-10-07-evm/</link>
+      <pubDate>Mon, 07 Oct 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-10-07-evm/</guid>
+      <description>Earned Value Management (EVM) is a widely used method, if not to say, a imperative method in project management. Without the EVM, the Project Managers and stakeholders (PM) cannot track and monitor the Progress and Schedule, cannot understand the causes of problems and delays.
+In a large scale engineering project, Contractors shall have an excellent and FULL TIME experienced Planners who can confidently perform EVM analysis and report to the PM and the project team weekly and monthly.</description>
+    </item>
+    
+    <item>
+      <title>Intervention of Pumps under uncertainties</title>
+      <link>/jp/blogs/2019-09-29-pump-efficiency/</link>
+      <pubDate>Sun, 29 Sep 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-09-29-pump-efficiency/</guid>
+      <description>This post describes a generic approach on the computation of Net Present Value (NPV) and Life Cycle Cost estimation (LCC) for Preventive Intervention (PI) on pumps (e.g. centrifugal pumps) when decision makers are uncertain on, or do not have a rich set of data on failure of pump components.
+Ideally, failure data on pump components should be recorded in time-series fashion that allows analyst to investigate on the frequency of failure and come up with a prediction.</description>
+    </item>
+    
+    <item>
+      <title>Excel worksheets combination</title>
+      <link>/jp/blogs/2019-09-15-excel-combine/</link>
+      <pubDate>Sun, 15 Sep 2019 23:30:45 +0800</pubDate>
+      
+      <guid>/jp/blogs/2019-09-15-excel-combine/</guid>
+      <description>What if our Client provides us with a number of poorly recorded databases with thousands of records in different Excel formats? not only that, within each Excel file, there are hundreds of worksheets with in-homogeneous structures –F.. Excel ^_^, but that is the reality, particularly when we have to work with Clients whose business are not much involved with TECH.
+What if our Client provides us with a number of poorly recorded databases with thousands of records in different Excel formats?</description>
+    </item>
+    
+    <item>
+      <title>Energy Audit</title>
+      <link>/jp/blogs/energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/blogs/energy/</guid>
+      <description>Energy Audit for Buildings To support our goal of sustainable outcomes for our Clients, we have developed solutions to optimize their energy usage providing a range of benefits to the building owner and occupants.
+The audits come with three different levels of comprehensiveness. Every building and building owner is different and is looking to achieve different objectives. For some it is essential for commercial viability, for others something they would like some expert inputs on before considering further.</description>
+    </item>
+    
+  </channel>
+</rss>

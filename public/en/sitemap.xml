@@ -25,6 +25,16 @@
   <url>
     <loc>/blogs/mep/</loc>
     <lastmod>2020-02-11T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/mep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blogs/mep/"
+                />
   </url>
   
   <url>
@@ -34,6 +44,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/am/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/am/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -52,6 +67,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/tdd/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/whatwedo/tdd/"
                 />
@@ -64,6 +84,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/constructionmarket/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/constructionmarket/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,6 +107,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/datascience/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/whatwedo/datascience/"
                 />
@@ -90,6 +120,16 @@
   <url>
     <loc>/apps/fitoutcost/</loc>
     <lastmod>2019-10-19T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/apps/fitoutcost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/apps/fitoutcost/"
+                />
   </url>
   
   <url>
@@ -99,6 +139,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/apps/weibulllcc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/apps/weibulllcc/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -130,11 +175,31 @@
   <url>
     <loc>/blogs/2019-10-10-fuel-efficiency/</loc>
     <lastmod>2019-10-10T23:30:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/2019-10-10-fuel-efficiency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blogs/2019-10-10-fuel-efficiency/"
+                />
   </url>
   
   <url>
     <loc>/blogs/2019-10-10-remove-space-in-bulk/</loc>
     <lastmod>2019-10-10T23:30:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/2019-10-10-remove-space-in-bulk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blogs/2019-10-10-remove-space-in-bulk/"
+                />
   </url>
   
   <url>
@@ -160,16 +225,46 @@
   <url>
     <loc>/blogs/2019-10-07-evm/</loc>
     <lastmod>2019-10-07T23:30:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/2019-10-07-evm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blogs/2019-10-07-evm/"
+                />
   </url>
   
   <url>
     <loc>/blogs/2019-09-29-pump-efficiency/</loc>
     <lastmod>2019-09-29T23:30:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/2019-09-29-pump-efficiency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blogs/2019-09-29-pump-efficiency/"
+                />
   </url>
   
   <url>
     <loc>/blogs/2019-09-15-excel-combine/</loc>
     <lastmod>2019-09-15T23:30:45+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/2019-09-15-excel-combine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blogs/2019-09-15-excel-combine/"
+                />
   </url>
   
   <url>
@@ -179,6 +274,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -197,6 +297,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/apps/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/apps/"
                 />
@@ -209,6 +314,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -227,6 +337,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/whatwedo/"
                 />
@@ -239,6 +354,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/whatwedo/training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/training/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -256,6 +376,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/business/audit/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/business/audit/"
                 />
@@ -267,6 +392,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/business/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -284,6 +414,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/business/datasolutions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/business/datasolutions/"
                 />
@@ -298,6 +433,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="/jp/business/digitalmornitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="/business/digitalmornitoring/"
                 />
@@ -305,6 +445,16 @@
   
   <url>
     <loc>/blogs/energy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/blogs/energy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blogs/energy/"
+                />
   </url>
   
   <url>
@@ -313,6 +463,11 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/business/transportation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/business/transportation/"
                 />
     <xhtml:link
                 rel="alternate"
