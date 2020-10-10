@@ -223,24 +223,39 @@ disqusShortname = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-     formEmail = "hallo.asq@protonmail.com"
+     formEmail = "contact@asq.vn"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "hallo.asq@protonmail.com"
+    email = "contact@asq.vn"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "+84 98378 0100"
+    phone = "+84 9 6154 9824"
 
     [[params.contact.address]]
-    title = "Address"
-    street = "2001B C1 Tower, Rung Co, Ecopark"
-    city = "Hung Yen"
-    country = "Vietnam"
+    title = "Hanoi Office"
+    street = "498 De La Thanh, Dong Da, Hanoi"
+
+  #  city = "Hung Yen"
+  #  country = "Vietnam"
+
+    [[params.contact.address]]
+    title = "Ho Chi Minh Office"
+    street = "DragonHill, 15A Nguyen Huu Tho, Nha Be"
+
+  #  city = "Hung Yen"
+  #  country = "Vietnam"
+
+#  [[params.contact.address]]
+#  title = "Manila Office"
+#  street = "Rockwell, Makati, Metro Manila, the Phillipines, 1200"
+
+#  city = "Hung Yen"
+#  country = "Vietnam"
 
   # Footer section
   [params.footer]
@@ -462,17 +477,24 @@ disqusShortname = ""
           # by copying the corresponding map with frontmatter code.
           [[languages.vi.params.contact.email]]
           title = "Thư điện tử"
-          email = "hallo.asq@protonmail.com"
+          email = "contact@asq.vn"
 
           [[languages.vi.params.contact.phone]]
           title = "Điện thoại"
-          phone = "+84983780100"
+          phone = "+84 9 6154 9824"
 
           [[languages.vi.params.contact.address]]
-          title = "Địa chỉ"
-          street = "Phòng 2001B Tòa nhà C1, Rừng Cọ, Ecopark"
-          city = "Văn Giang, Hưng Yên"
-          country = "Việt Nam"
+          title = "Văn phòng Hà Nội"
+          street = "498 Đê La Thành, Đống Đa, Hà Nội"
+    #      city = "Văn Giang, Hưng Yên"
+    #      country = "Việt Nam"
+
+          [[languages.vi.params.contact.address]]
+          title = "Văn phòng tp. Hồ Chí Minh"
+          street = "DragonHill, 15A Nguyễn Hữu Thọ, Nhà Bè"
+#      city = "Văn Giang, Hưng Yên"
+#      country = "Việt Nam"
+
 
         # Footer section
         [languages.vi.params.footer]
