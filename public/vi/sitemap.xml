@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/vi/whatwedo/am/</loc>
-    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/am/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/whatwedo/am/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/am/"
-                />
-  </url>
-  
-  <url>
     <loc>/vi/</loc>
     <lastmod>2020-02-10T11:08:22+08:00</lastmod>
     <xhtml:link
@@ -39,6 +19,26 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/vi/"
+                />
+  </url>
+  
+  <url>
+    <loc>/vi/whatwedo/am/</loc>
+    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/whatwedo/am/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/whatwedo/am/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/vi/whatwedo/am/"
                 />
   </url>
   

@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "ASQ - Your Engineering Consultant"
+title = "ASQ - Aspring for Quality"
 theme = "forty"
 
 DefaultContentLanguage = "en"
@@ -10,13 +10,13 @@ DefaultContentLanguage = "en"
 [languages]
   [languages.en]
     contentDir = "content/en"
-    title = "ASQ - Your Engineering Consultant"
+    title = "ASQ - Aspring for Quality"
   #  staticDir2 = "static"
     languageName = "English"
     weight = 1
   [languages.vi]
     contentDir = "content/vi"
-    title = "Tư vấn ASQ"
+    title = "ASQ - Aspring for Quality"
     languageName = "Tiếng Việt"
   #  staticDir = ["staticDir_override", "static_vi"]
     weight = 2
@@ -51,8 +51,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "ASQ - Your Engineering Consultant"
-  description = "ASQ is a spin-off start up Team originated from ETH Zurich and Kyoto University specialized in engineering asset management and data analytics and data solution for engineering systems"
+  name = "ASQ - Aspring for Quality"
+  description = "ASQ is a spin-off start up Team originated from ETH Zurich and Kyoto University specialized in engineering asset management and data analytics and data solution for engineering systems."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -70,23 +70,23 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "ASQ"
-    subtitle = "Your Engineering Consultant"
+    subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
-#     logo = "/banner/logo.jpg"
+     logo = "/banner/logo.jpg"
 
     [[params.navigation.links]]
       name = "Home"
       url = "#"
 
-      [[params.navigation.links]]
-        name = "News"
-       url = "blogs/"
+#      [[params.navigation.links]]
+#        name = "News"
+#       url = "blogs/"
 
 
-       [[params.navigation.links]]
-         name = "Apps"
-        url = "apps/"
+#       [[params.navigation.links]]
+#         name = "Apps"
+#        url = "apps/"
 
 
        [[params.navigation.links]]
@@ -135,8 +135,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "ASQ Engineering and Research Hub"
-    subtitle = "Due Diligence, Asset Management, Data Analytics, and Market Analysis for Engineering Systems"
+    title = "Offshore Staffing & Engineering Consultancy"
+    subtitle = "ASQ is the strategic partner of EMAPTA (No. 1 BPO firm in the Philippines) in Vietnam for offshore staffing in various business sectors beside its founding services in Asset Management and Data Solutions for Engineering Systems."
     buttonText = "Get Started"
     image = "/banner/banner.jpg"
 
@@ -148,9 +148,15 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Who We Are"
-      subtitle = "A spin-off start up Team originated from ETH Zurich (Swizerland) and Kyoto University (Japan). We solve real world problems with practical experiences and state-of-the-art innovations in engineering and science"
+      subtitle = "A spin-off start up team originated in 2012 from ETH Zurich and Kyoto University. We are specialists in asset management for engineering systems and transportation engineering. In 2020, we signed a strategic partnership with EMAPTA to provide highly qualified Vietnamese staffs in various professional for offshore staffing services for Clients worldwide."
       image = "/banner/pic01.jpg"
       url = "about/"
+
+    [[params.tiles.showcase]]
+      title = "Offshore Staffing"
+      subtitle = "In partnering with EMAPTA (No. 1 BPO firm in the Philippines), ASQ offers highly qualified Vietnamese staffs for global Clients in various areas such as engineering design drafting and modelling, software development, paralegal services, and data analytics. Ultilizing EMAPTA's best practices and systems, ASQ team is confident to deliver quality works meeting Client's requirements and expectation. Kindly visit website of EMAPTA www.emapta.com for further information."
+  #    image = "/banner/pic02.jpg"
+  #    url = "whatwedo/tdd"
 
     [[params.tiles.showcase]]
       title = "Technical Due Diligence"
@@ -182,15 +188,15 @@ disqusShortname = ""
       image = "/banner/pic06.jpg"
       url = "whatwedo/training"
 
-    [[params.tiles.showcase]]
-      title = "Brochure "
-      subtitle = "Download ASQ's Brochure in PDF format"
-      image = "/banner/collaboration.png"
-      url = "about/ASQ-brochure-English.pdf"
+#    [[params.tiles.showcase]]
+#      title = "Brochure "
+#      subtitle = "Download ASQ's Brochure in PDF format"
+#      image = "/banner/collaboration.png"
+#      url = "about/ASQ-brochure-English.pdf"
     # You can make more showcases by copy and pasting the code above
     # You can make more showcases by copy and pasting the code above
 
-  [params.blog]
+#  [params.blog]
     # All blogs defined in their own files. You can find example blogs
     # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
     # at the root of this Hugo site.
@@ -198,12 +204,12 @@ disqusShortname = ""
     # To add more blogs just copy and paste the code.
 
   # Section Type Two
-  [params.two]
-    enable = true
-    title = "Our Blog"
-    subtitle = """A collection of ASQ's news and articles"""
-    buttonText = "Get Started"
-    url = "blogs"
+#  [params.two]
+#    enable = true
+#    title = "Our Blog"
+#    subtitle = """A collection of ASQ's news and articles"""
+#    buttonText = "Get Started"
+#    url = "blogs"
 
 
   # Contact section
@@ -260,7 +266,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "ASQ - Your Engineering Consultant"
+    copyright = "ASQ - Aspiring for Quality"
 
 
 
@@ -312,21 +318,21 @@ disqusShortname = ""
         # Navigation Section
         [languages.vi.params.navigation]
           title = "ASQ"
-          subtitle = "Your Engineering Consultant"
+          subtitle = ""
           menu = "Trang Chủ"
           # Optional logo as brand stored in img/
-          # logo = "/banner/logo.jpg"
+           logo = "/banner/logo.jpg"
 
-          [[languages.vi.params.navigation.links]]
-            name = "Tin Tức"
-            url = "vi/blogs"
+    #      [[languages.vi.params.navigation.links]]
+    #        name = "Tin Tức"
+    #        url = "vi/blogs"
 
-            [[languages.vi.params.navigation.links]]
-              name = "Apps"
-             url = "apps/"
-          [[languages.vi.params.navigation.links]]
-              name = "Dịch Vụ"
-              url = "vi/whatwedo"
+  #          [[languages.vi.params.navigation.links]]
+  #            name = "Apps"
+  #           url = "apps/"
+    #      [[languages.vi.params.navigation.links]]
+    #          name = "Dịch Vụ"
+    #          url = "vi/whatwedo"
 
 
   #        [[languages.vi.params.navigation.links]]
@@ -369,8 +375,8 @@ disqusShortname = ""
         [languages.vi.params.banner]
           # To change the background image on the homepage banner, replace 'banner.jpg' in
           # the 'static/img' folder.
-          title = "Tư Vấn ASQ"
-          subtitle = "Cung cấp dịch vụ tư vấn kĩ thuật chuyên nghiệp trong lĩnh vực đánh giá và quản lý tài sản cơ sở hạ tầng và các hệ thống kĩ thuật, lập các mô hình toán tối ưu dựa trên dữ liệu vận hành và bảo trì, đánh giá và phân tích thị trường xây dựng."
+          title = "Cung cấp nhân lực quốc tế và tư vấn kĩ thuật"
+          subtitle = "ASQ là đối tác chiến lược của công ty EMAPTA, là công ty BPO số 1 Phillipines chuyên về lĩnh vực cung ứng lao động chất lượng cao cho thị trường quốc tế, đặc biệt là thị trường bắc Mỹ và Úc. Bên cạnh dịch vụ cung cấp nhân lực cùng với EMAPTA, ASQ còn có thế mạnh trong dịch vụ tư vấn kĩ thuật và xử lý dữ liệu cho các hệ thống nhà cửa, đô thị, và các nhà máy. Thành viên của EMAPTA đã và đang hợp tác trong nghiên cứu khoa học với ETH Zurich, Kyoto University, Viện Đô Thị Thông Minh và Quản lý thuộc trường đại học Kinh Tế thành phố Hồ Chí Minh."
           buttonText = "Tìm hiểu thêm"
 
 
@@ -381,11 +387,18 @@ disqusShortname = ""
 
           [[languages.vi.params.tiles.showcase]]
             title = "Giới thiệu"
-            subtitle = "ASQ được thành lập như là một sản phẩm Spin-off từ các công trình nghiên cứu tại viện công nghệ thụy Sĩ ETH và đại học Kyoto Nhật Bản. ASQ có thế mạnh trong lĩnh vực áp dụng các mô hình toán xác xuất thống kê và toán ứng dụng trong lĩnh vực xây dựng và quản lý thiết bị và tài sản hạ tầng"
+            subtitle = "ASQ được thành lập như là một sản phẩm Spin-off từ các công trình nghiên cứu tại viện công nghệ thụy Sĩ ETH và đại học Kyoto Nhật Bản từ năm 2012. ASQ có thế mạnh trong lĩnh vực áp dụng các mô hình toán xác xuất thống kê và toán ứng dụng trong lĩnh vực xây dựng và quản lý thiết bị và tài sản hạ tầng. Vào năm 2020, ASQ hợp tác với công ty EMAPTA cung cấp dịch vụ cung cứng lao động chất lượng cao cho thị trường quốc tế thông qua mô hình BPO."
             image = "/banner/pic01.jpg"
             url = "vi/about/"
             # url = "blogs/aliquam"
 
+          [[languages.vi.params.tiles.showcase]]
+            title = "Offshore Staffing"
+            subtitle = "Cùng hợp tác với công ty EMAPTA (công ty số 1 Philippines về dịch vụ BPO Offshore Staffing, ASQ tuyển các tài năng trẻ người Việt có trình độ cao, nói tiếng Anh thành thạo để làm việc trực tiếp với khách hàng trên thế giới, đặc biệt là cho hai thị trường bắc Mỹ và Úc. Các tài năng được hưởng trọn vẹn hệ thống quản lý tiên tiến của đối tác EMAPTA và được hưởng các quyền lợi và các chế độ đãi ngộ tốt. Cho tới nay, ASQ đã và đang cung cấp tài năng cho các lĩnh vực như luật, tin học và lập trình, vẽ và thiết kế kĩ thuật, và phân tích dữ liệu. Để biết thêm các công việc liên quan đến mô hình BPO, xin vui lòng ghé thăm trang web của EMAPTA www.emapta.com."
+      #      url = "vi/whatwedo/tdd"
+
+    #        image = "/banner/pic02.jpg"
+              # url = "blogs/aliquam"
 
           [[languages.vi.params.tiles.showcase]]
             title = "Đánh giá các hệ thống kĩ thuật công trình"
@@ -430,14 +443,14 @@ disqusShortname = ""
           # You can make more showcases by copy and pasting the code above
 
 
-          [[languages.vi.params.tiles.showcase]]
-            title = "Hồ sơ giới thiệu ASQ bản PDF"
-            subtitle = "Tải hồ sơ ASQ để biết thêm về năng lực, đề tài nghiên cứu, và các sản phẩm dịch vụ"
-            image = "/banner/collaboration.png"
-            url = "about/ASQbrochure-en.pdf"
+  #        [[languages.vi.params.tiles.showcase]]
+  #          title = "Hồ sơ giới thiệu ASQ bản PDF"
+  #          subtitle = "Tải hồ sơ ASQ để biết thêm về năng lực, đề tài nghiên cứu, và các sản phẩm dịch vụ"
+  #          image = "/banner/collaboration.png"
+  #          url = "about/ASQbrochure-en.pdf"
 
 
-        [languages.vi.params.blog]
+  #      [languages.vi.params.blog]
           # All blogs defined in their own files. You can find example blogs
           # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
           # at the root of this Hugo site.
@@ -445,12 +458,12 @@ disqusShortname = ""
           # To add more blogs just copy and paste the code.
 
         # Section Type Two
-        [languages.vi.params.two]
-          enable = true
-          title = "Tin tức"
-          subtitle = """Thông tin về dự án và các bài viết chuyên môn """
-          buttonText = "Tìm hiểu thêm"
-          url = "vi/blogs"
+  #      [languages.vi.params.two]
+  #        enable = true
+  #        title = "Tin tức"
+  #        subtitle = """Thông tin về dự án và các bài viết chuyên môn """
+  #        buttonText = "Tìm hiểu thêm"
+  #        url = "vi/blogs"
 
 
         # Contact section
@@ -499,7 +512,7 @@ disqusShortname = ""
         # Footer section
         [languages.vi.params.footer]
           enable = true
-          copyright = "Tư vấn ASQ"
+          copyright = "ASQ - Aspring for Quality"
 
           # Uses font awesome icons
 
